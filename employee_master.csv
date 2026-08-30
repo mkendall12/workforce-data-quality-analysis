@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,work_email,hire_date,termination_date,employment_status,employment_type,job_title,department,department_code,manager_id,location,annual_salary,last_updated_date,work_arrangement
+EMP-0001,Ethan,Kim,ethan.kim1@celestialridgetech.example,2020-11-24,2023-06-26,Terminated,Full-Time,Operations Specialist,Operations,OPS,,"Chicago, IL",96000,2026-04-10,Hybrid
+EMP-0002,Drew,Young,drew.young2@celestialridgetech.example,2019-06-28,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Providence, RI",122000,2026-06-12,Hybrid
+EMP-0003,Owen,Howard,owen.howard3@celestialridgetech.example,2019-06-09,,Active,Full-Time,Product Analyst,Product,PROD,,"Chicago, IL",105000,2026-01-16,Hybrid
+EMP-0004,Dakota,Anderson,dakota.anderson4@celestialridgetech.example,2020-04-21,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0002,"Denver, CO",103000,2026-05-21,Remote
+EMP-0005,Morgan,Flores,morgan.flores5@celestialridgetech.example,2018-08-28,,Active,Full-Time,Operations Analyst,Operations,OPS,,"Chicago, IL",82000,2026-07-06,Hybrid
+EMP-0006,Parker,Anderson,parker.anderson6@celestialridgetech.example,2022-04-30,,Active,Full-Time,Product Manager,Product,PROD,EMP-0003,"Boston, MA",130000,2026-04-11,Remote
+EMP-0007,Liam,Kim,liam.kim7@celestialridgetech.example,2019-01-20,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,,"Austin, TX",94000,2026-08-18,Remote
+EMP-0008,Dakota,Evans,dakota.evans8@celestialridgetech.example,2023-04-25,,Active,Full-Time,Systems Analyst,Information Technology,IT,,"Charlotte, NC",107000,2026-07-17,On-site
+EMP-0009,Skyler,Patel,skyler.patel9@celestialridgetech.example,2018-12-17,2022-03-08,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0002,"Providence, RI",118000,2026-08-29,Hybrid
+EMP-0010,Hayden,Morris,hayden.morris10@celestialridgetech.example,2022-11-05,2024-11-30,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0004,"Austin, TX",116000,2026-05-22,On-site
+EMP-0011,Theo,Turner,theo.turner11@celestialridgetech.example,2024-04-07,,Active,Full-Time,Senior CSM,Customer Success,CS,,"Denver, CO",77000,2026-01-24,Hybrid
+EMP-0012,Avery,Green,avery.green12@celestialridgetech.example,2018-12-11,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0003,"Charlotte, NC",134000,2026-07-04,Remote
+EMP-0013,Hayden,Irwin,hayden.irwin13@celestialridgetech.example,2017-06-10,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0004,"Boston, MA",125000,2026-01-08,Remote
+EMP-0014,Logan,Brooks,logan.brooks14@celestialridgetech.example,2025-08-19,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0013,"Providence, RI",99000,2026-08-29,Remote
+EMP-0015,Casey,Green,casey.green15@celestialridgetech.example,2026-03-15,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,,"Boston, MA",69000,2026-08-12,Hybrid
+EMP-0016,Ethan,Lewis,ethan.lewis16@celestialridgetech.example,2023-05-05,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0004,"Charlotte, NC",112000,2026-07-25,Remote
+EMP-0017,Liam,Garcia,liam.garcia17@celestialridgetech.example,2024-03-19,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,,"Austin, TX",67000,2026-07-14,Remote
+EMP-0018,Maya,Nguyen,maya.nguyen18@celestialridgetech.example,2025-11-13,,Active,Full-Time,Marketing Manager,Marketing,MKTG,,"Austin, TX",85000,2026-01-11,Hybrid
+EMP-0019,Ethan,Evans,ethan.evans19@celestialridgetech.example,2016-05-31,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0003,"Providence, RI",133000,2026-01-30,Hybrid
+EMP-0020,Morgan,Kim,morgan.kim20@celestialridgetech.example,2020-05-18,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0011,"Austin, TX",85000,2026-08-22,Hybrid
+EMP-0021,Miles,Edwards,miles.edwards21@celestialridgetech.example,2021-01-29,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0005,"Providence, RI",105000,2026-01-20,Remote
+EMP-0022,Jack,Walker,jack.walker22@celestialridgetech.example,2018-09-25,2022-08-24,Terminated,Full-Time,HR Coordinator,Human Resources,HR,,"Charlotte, NC",113000,2026-02-04,Remote
+EMP-0023,Maya,Young,maya.young23@celestialridgetech.example,2025-02-05,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0016,"Chicago, IL",129000,2026-03-19,Hybrid
+EMP-0024,Theo,Lewis,theo.lewis24@celestialridgetech.example,2017-02-04,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,,"Austin, TX",79000,2026-07-02,Remote
+EMP-0025,Taylor,Morris,taylor.morris25@celestialridgetech.example,2022-11-21,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0011,"Boston, MA",103000,2026-03-15,Hybrid
+EMP-0026,Alex,Garcia,alex.garcia26@celestialridgetech.example,2021-08-23,2026-02-22,Terminated,Full-Time,HR Manager,Human Resources,HR,,"Denver, CO",55000,2026-06-06,Remote
+EMP-0027,Jamie,Evans,jamie.evans27@celestialridgetech.example,2017-05-16,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0008,"Charlotte, NC",109000,2026-01-29,Hybrid
+EMP-0028,Mia,Young,mia.young28@celestialridgetech.example,2022-09-11,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0017,"Providence, RI",85000,2026-08-07,Hybrid
+EMP-0029,Owen,Reed,owen.reed29@celestialridgetech.example,2020-12-12,2023-06-25,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0027,"Chicago, IL",64000,2026-02-25,On-site
+EMP-0030,Ava,James,ava.james30@celestialridgetech.example,2026-06-07,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0024,"Charlotte, NC",72000,2026-01-18,Hybrid
+EMP-0031,Lucas,Brooks,lucas.brooks31@celestialridgetech.example,2019-09-02,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0007,"Providence, RI",125000,2026-06-17,Remote
+EMP-0032,Logan,Diaz,logan.diaz32@celestialridgetech.example,2018-07-22,,Active,Full-Time,Product Manager,Product,PROD,EMP-0019,"Charlotte, NC",83000,2026-05-18,Hybrid
+EMP-0033,Chloe,Nguyen,chloe.nguyen33@celestialridgetech.example,2021-06-26,,Active,Part-Time,Marketing Manager,Marketing,MKTG,EMP-0018,"Austin, TX",120000,2026-02-19,Hybrid
+EMP-0034,Jamie,Kim,jamie.kim34@celestialridgetech.example,2017-07-29,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0004,"Providence, RI",106000,2026-06-09,Remote
+EMP-0035,Elena,Turner,elena.turner35@celestialridgetech.example,2023-08-10,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0030,"Charlotte, NC",94000,2026-07-23,Remote
+EMP-0036,Taylor,Howard,taylor.howard36@celestialridgetech.example,2022-02-09,2025-05-01,Terminated,Full-Time,Sales Manager,Sales,SALES,EMP-0015,"Providence, RI",89000,2026-07-28,Hybrid
+EMP-0037,Ava,Bennett,ava.bennett37@celestialridgetech.example,2020-06-29,2021-02-13,Terminated,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0033,"Austin, TX",66000,2026-02-12,Remote
+EMP-0038,Skyler,Turner,skyler.turner38@celestialridgetech.example,2016-12-29,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0015,"Boston, MA",67000,2026-07-13,Remote
+EMP-0039,Reese,Patel,reese.patel39@celestialridgetech.example,2026-01-24,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0023,"Chicago, IL",143000,2026-01-06,Remote
+EMP-0040,Parker,Flores,parker.flores40@celestialridgetech.example,2019-04-20,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0025,"Providence, RI",65000,2026-02-22,Remote
+EMP-0041,Reese,Young,reese.young41@celestialridgetech.example,2025-06-26,2026-04-24,Terminated,Part-Time,HR Manager,Human Resources,HR,,"Charlotte, NC",54000,2026-06-30,On-site
+EMP-0042,Leah,Edwards,leah.edwards42@celestialridgetech.example,2023-03-12,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0012,"Boston, MA",88000,2026-03-25,Remote
+EMP-0043,Emerson,Morris,emerson.morris43@celestialridgetech.example,2024-06-30,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Providence, RI",99000,2026-01-10,Remote
+EMP-0044,Hayden,Hayes,hayden.hayes44@celestialridgetech.example,2021-02-04,2023-11-07,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0011,"Chicago, IL",98000,2026-04-15,Remote
+EMP-0045,Henry,Johnson,henry.johnson45@celestialridgetech.example,2018-05-01,2022-11-24,Terminated,Full-Time,Financial Analyst,Finance,FIN,EMP-0017,"Boston, MA",81000,2026-04-25,Remote
+EMP-0046,Liam,Walker,liam.walker46@celestialridgetech.example,2024-02-02,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0011,"Providence, RI",108000,2026-06-29,Hybrid
+EMP-0047,Riley,Anderson,riley.anderson47@celestialridgetech.example,2022-04-11,2023-03-30,Terminated,Part-Time,Data Analyst,Data & Analytics,DATA,EMP-0035,"Austin, TX",94000,2026-01-29,Remote
+EMP-0048,Logan,Owens,logan.owens48@celestialridgetech.example,2018-05-03,,Active,Part-Time,Sales Operations Analyst,Sales,SALES,EMP-0038,"Boston, MA",115000,2026-01-05,Hybrid
+EMP-0049,Logan,Sullivan,logan.sullivan49@celestialridgetech.example,2019-12-16,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0014,"Austin, TX",91000,2026-05-01,Remote
+EMP-0050,Noah,Nguyen,noah.nguyen50@celestialridgetech.example,2021-10-03,,Active,Part-Time,Senior CSM,Customer Success,CS,EMP-0046,"Boston, MA",86000,2026-03-10,Remote
+EMP-0051,Ava,Lewis,ava.lewis51@celestialridgetech.example,2022-12-16,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0002,"Austin, TX",142000,2026-04-29,Hybrid
+EMP-0052,Lucas,Howard,lucas.howard52@celestialridgetech.example,2025-08-27,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0035,"Denver, CO",101000,2026-01-09,Hybrid
+EMP-0053,Sofia,Collins,sofia.collins53@celestialridgetech.example,2017-03-27,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0020,"Boston, MA",93000,2026-05-29,Hybrid
+EMP-0054,Owen,Green,owen.green54@celestialridgetech.example,2024-08-02,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0053,"Boston, MA",75000,2026-05-26,Remote
+EMP-0055,Cameron,Mitchell,cameron.mitchell55@celestialridgetech.example,2021-01-13,2025-09-22,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0051,"Denver, CO",101000,2026-03-09,Hybrid
+EMP-0056,Chloe,Sullivan,chloe.sullivan56@celestialridgetech.example,2017-10-27,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0016,"Charlotte, NC",100000,2026-04-18,Remote
+EMP-0057,Zoe,Turner,zoe.turner57@celestialridgetech.example,2025-12-30,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0048,"Austin, TX",64000,2026-07-15,Hybrid
+EMP-0058,Morgan,Kelly,morgan.kelly58@celestialridgetech.example,2020-06-16,2020-10-07,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0024,"Denver, CO",96000,2026-07-24,Remote
+EMP-0059,Blake,Patel,blake.patel59@celestialridgetech.example,2024-07-04,,Active,Full-Time,HR Specialist,Human Resources,HR,,"Chicago, IL",80000,2026-05-12,On-site
+EMP-0060,Taylor,Turner,taylor.turner60@celestialridgetech.example,2022-07-09,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0032,"Boston, MA",100000,2026-04-01,Remote
+EMP-0061,Hayden,Carter,hayden.carter61@celestialridgetech.example,2018-01-17,2019-02-26,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0024,"Providence, RI",114000,2026-03-13,Hybrid
+EMP-0062,Miles,Diaz,miles.diaz62@celestialridgetech.example,2023-11-25,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0052,"Chicago, IL",107000,2026-07-06,Hybrid
+EMP-0063,Henry,Anderson,henry.anderson63@celestialridgetech.example,2016-09-15,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0024,"Boston, MA",74000,2026-08-26,On-site
+EMP-0064,Blake,Howard,blake.howard64@celestialridgetech.example,2016-06-21,,Active,Full-Time,Sales Manager,Sales,SALES,,"Charlotte, NC",115000,2026-07-25,On-site
+EMP-0065,Theo,Brooks,theo.brooks65@celestialridgetech.example,2022-10-27,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0060,"Boston, MA",117000,2026-02-19,Remote
+EMP-0066,Grace,Carter,grace.carter66@celestialridgetech.example,2024-05-16,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0024,"Austin, TX",130000,2026-05-22,Remote
+EMP-0067,Riley,Lewis,riley.lewis67@celestialridgetech.example,2025-06-29,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0017,"Denver, CO",98000,2026-02-21,Remote
+EMP-0068,Riley,Green,riley.green68@celestialridgetech.example,2024-03-03,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0035,"Chicago, IL",88000,2026-07-25,Remote
+EMP-0069,Avery,Howard,avery.howard69@celestialridgetech.example,2016-09-01,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0059,"Denver, CO",94000,2026-05-19,Hybrid
+EMP-0070,Ethan,Irwin,ethan.irwin70@celestialridgetech.example,2026-05-22,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0048,"Boston, MA",101000,2026-01-05,Remote
+EMP-0071,Emerson,Young,emerson.young71@celestialridgetech.example,2019-02-11,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0038,"Providence, RI",67000,2026-08-18,Remote
+EMP-0072,Alex,Morris,alex.morris72@celestialridgetech.example,2023-04-05,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0066,"Boston, MA",119000,2026-05-22,Hybrid
+EMP-0073,Ethan,Edwards,ethan.edwards73@celestialridgetech.example,2026-05-05,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0011,"Denver, CO",108000,2026-01-20,Hybrid
+EMP-0074,Zoe,Howard,zoe.howard74northstarsolutions.example,2018-05-14,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0038,"Austin, TX",83000,2026-02-08,Hybrid
+EMP-0075,Grace,Mitchell,grace.mitchell75@celestialridgetech.example,2020-08-17,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0025,"Charlotte, NC",102000,2026-06-21,Remote
+EMP-0076,Rowan,Hayes,rowan.hayes76@celestialridgetech.example,2016-02-04,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0056,"Providence, RI",97000,2026-07-04,Hybrid
+EMP-0077,Rowan,Edwards,rowan.edwards77@celestialridgetech.example,2020-08-07,,Active,Part-Time,Data Analyst,Data & Analytics,DATA,EMP-0066,"Denver, CO",78000,2026-04-21,On-site
+EMP-0078,Jordan,Foster,jordan.foster78@celestialridgetech.example,2025-11-20,2026-02-08,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,,"Chicago, IL",128000,2026-01-05,Remote
+EMP-0079,Skyler,Bennett,skyler.bennett79@celestialridgetech.example,2017-05-18,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0023,"Charlotte, NC",134000,2026-08-06,Remote
+EMP-0080,Reese,Carter,reese.carter80@celestialridgetech.example,2024-12-26,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0018,"Charlotte, NC",90000,2026-01-06,Hybrid
+EMP-0081,Casey,Brooks,casey.brooks81@celestialridgetech.example,2017-05-24,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0060,"Boston, MA",88000,2026-06-14,Remote
+EMP-0082,Alex,Irwin,alex.irwin82@celestialridgetech.example,2019-05-08,,Active,Part-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0007,"Providence, RI",70000,2026-01-31,On-site
+EMP-0083,Maya,Edwards,maya.edwards83@celestialridgetech.example,2017-11-16,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0079,"Boston, MA",154000,2026-01-22,Remote
+EMP-0084,Jack,Anderson,jack.anderson84@celestialridgetech.example,2022-02-01,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0052,"Charlotte, NC",76000,2026-05-28,Hybrid
+EMP-0085,Morgan,Lewis,morgan.lewis85@celestialridgetech.example,2019-01-31,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0059,"Austin, TX",75000,2026-07-25,On-site
+EMP-0086,Miles,Kim,miles.kim86@celestialridgetech.example,2016-08-16,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0074,"Austin, TX",133000,2026-02-20,Remote
+EMP-0087,Mia,Carter,mia.carter87@celestialridgetech.example,2025-09-06,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0025,"Denver, CO",91000,2026-04-18,On-site
+EMP-0088,Reese,Nguyen,reese.nguyen88@celestialridgetech.example,2024-08-24,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Austin, TX",126000,2026-03-24,Hybrid
+EMP-0089,Rowan,Reed,rowan.reed89@celestialridgetech.example,2021-01-13,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0048,"Boston, MA",87000,2026-08-24,Remote
+EMP-0090,Caleb,Walker,caleb.walker90@celestialridgetech.example,2019-06-18,,Active,Part-Time,Data Analyst,Data & Analytics,DATA,EMP-0052,"Charlotte, NC",104000,2026-01-25,On-site
+EMP-0091,Nina,Patel,nina.patel91@celestialridgetech.example,2023-01-27,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0039,"Charlotte, NC",140000,2026-06-20,Remote
+EMP-0092,Cameron,Kim,cameron.kim92@celestialridgetech.example,2019-04-28,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0088,"Austin, TX",152000,2026-07-17,Remote
+EMP-0093,Drew,Lewis,drew.lewis93@celestialridgetech.example,2017-05-03,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0008,"Charlotte, NC",82000,2026-06-22,Remote
+EMP-0094,Jordan,Howard,jordan.howard94@celestialridgetech.example,2023-10-02,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0068,"Denver, CO",81000,2026-03-04,Remote
+EMP-0095,Alex,Lewis,alex.lewis95@celestialridgetech.example,2016-10-12,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0056,"Denver, CO",107000,2026-08-05,Hybrid
+EMP-0096,Casey,Howard,casey.howard96@celestialridgetech.example,2017-07-14,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0043,"Chicago, IL",116000,2026-08-04,Hybrid
+EMP-0097,Maya,James,maya.james97@celestialridgetech.example,2023-01-15,2026-02-21,Terminated,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0080,"Denver, CO",90000,2026-06-20,Hybrid
+EMP-0098,Ava,Patel,ava.patel98@celestialridgetech.example,2016-08-25,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0057,"Boston, MA",75000,2026-02-11,Remote
+EMP-0099,Jack,Irwin,jack.irwin99@celestialridgetech.example,2018-03-11,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0013,"Providence, RI",150000,2026-02-11,Hybrid
+EMP-0100,Casey,Howard,casey.howard100@celestialridgetech.example,2020-11-30,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0030,"Denver, CO",96000,2026-07-27,Remote
+EMP-0101,Sofia,Reed,sofia.reed101@celestialridgetech.example,2021-02-20,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0039,"Boston, MA",89000,2026-02-04,Hybrid
+EMP-0102,Theo,Green,theo.green102@celestialridgetech.example,2016-01-01,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0011,"Boston, MA",110000,2026-05-20,Remote
+EMP-0103,Morgan,Nguyen,morgan.nguyen103@celestialridgetech.example,2021-03-07,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0017,"Providence, RI",85000,2026-01-21,Hybrid
+EMP-0104,Alex,Bennett,alex.bennett104@celestialridgetech.example,2018-01-13,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0005,"Providence, RI",96000,2026-04-29,Remote
+EMP-0105,Leah,Howard,leah.howard105@celestialridgetech.example,2023-09-28,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0013,"Charlotte, NC",115000,2026-06-07,Remote
+EMP-0106,Blake,Sullivan,blake.sullivan106@celestialridgetech.example,2023-05-11,,Active,Part-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Charlotte, NC",117000,2026-03-28,Hybrid
+EMP-0107,Theo,Diaz,theo.diaz107@celestialridgetech.example,2023-09-17,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0002,"Providence, RI",109000,2026-03-31,On-site
+EMP-0108,Theo,Mitchell,theo.mitchell108@celestialridgetech.example,2016-12-03,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0069,"Chicago, IL",53000,2026-03-30,Hybrid
+EMP-0109,Grace,Turner,grace.turner109@celestialridgetech.example,2017-05-06,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0085,"Providence, RI",97000,2026-01-24,Remote
+EMP-0110,Riley,Mitchell,riley.mitchell110@celestialridgetech.example,2017-01-31,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0099,"Boston, MA",118000,2026-05-02,Remote
+EMP-0111,Skyler,Young,skyler.young111@celestialridgetech.example,2016-08-25,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0007,"Austin, TX",114000,2026-03-28,Remote
+EMP-0112,Theo,Owens,theo.owens112@celestialridgetech.example,2025-12-21,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0034,"Austin, TX",145000,2026-07-23,Hybrid
+EMP-0113,Avery,Anderson,avery.anderson113@celestialridgetech.example,2016-03-27,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-9999,"Providence, RI",110000,2026-08-16,Remote
+EMP-0114,Henry,Foster,henry.foster114@celestialridgetech.example,2025-02-21,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0105,"Boston, MA",94000,2026-05-15,Remote
+EMP-0115,Casey,Diaz,casey.diaz115@celestialridgetech.example,2022-05-26,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0082,"Boston, MA",84000,2026-06-23,Remote
+EMP-0116,Reese,Patel,reese.patel116@celestialridgetech.example,2018-05-02,,Active,Full-Time,Account Executive,Sales,SALES,,"Boston, MA",67000,2026-05-25,Hybrid
+EMP-0117,Reese,Edwards,reese.edwards117@celestialridgetech.example,2025-05-28,2025-08-24,Terminated,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0020,"Boston, MA",68000,2026-05-21,Remote
+EMP-0118,Emerson,Diaz,emerson.diaz118@celestialridgetech.example,2020-08-07,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0019,"Chicago, IL",111000,2026-01-28,Remote
+EMP-0119,Nina,Young,nina.young119@celestialridgetech.example,2019-11-16,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0086,"Austin, TX",67000,2026-01-10,Hybrid
+EMP-0120,Leah,Flores,leah.flores120@celestialridgetech.example,2022-09-14,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0069,"Chicago, IL",65000,2026-02-12,Hybrid
+EMP-0121,Casey,Kim,casey.kim121@celestialridgetech.example,2019-09-29,,Active,Part-Time,Senior Product Manager,Product,PROD,EMP-0003,"Austin, TX",110000,2026-04-08,Remote
+EMP-0122,Dakota,Diaz,dakota.diaz122@celestialridgetech.example,2022-10-24,2025-05-11,Terminated,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0100,"Chicago, IL",100000,2026-01-30,On-site
+EMP-0123,Maya,Diaz,maya.diaz123@celestialridgetech.example,2019-06-03,2022-04-10,Terminated,Full-Time,Product Manager,Product,PROD,EMP-0121,"Denver, CO",91000,2026-05-31,On-site
+EMP-0124,Drew,Evans,drew.evans124@celestialridgetech.example,2023-02-08,,Active,Part-Time,Senior Software Engineer,Engineering,ENG,EMP-0079,"Chicago, IL",91000,2026-08-22,On-site
+EMP-0125,Cameron,Brooks,cameron.brooks125@celestialridgetech.example,2018-06-21,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0107,"Austin, TX",150000,2026-02-21,Hybrid
+EMP-0126,Theo,Howard,theo.howard126@celestialridgetech.example,2022-05-19,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0111,"Chicago, IL",88000,2026-03-06,Hybrid
+EMP-0127,Drew,Morris,drew.morris127@celestialridgetech.example,2021-07-18,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0016,"Austin, TX",106000,2026-02-08,Hybrid
+EMP-0128,Ethan,Nguyen,ethan.nguyen128@celestialridgetech.example,2018-09-18,2026-04-24,Terminated,Full-Time,Sales Manager,Sales,SALES,EMP-0098,"Denver, CO",71000,2026-03-03,Remote
+EMP-0129,Sofia,Hayes,sofia.hayes129@celestialridgetech.example,2021-06-13,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0028,"Charlotte, NC",110000,2026-01-09,Remote
+EMP-0130,Sofia,Kelly,sofia.kelly130@celestialridgetech.example,2024-11-01,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0084,"Austin, TX",108000,2026-03-11,Remote
+EMP-0131,Alex,Bennett,alex.bennett131@celestialridgetech.example,2021-07-04,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Austin, TX",69000,2026-07-26,Hybrid
+EMP-0132,Alex,Young,alex.young132@celestialridgetech.example,2024-10-05,,Active,Part-Time,Legal Operations Manager,Legal,LEGAL,EMP-0031,"Denver, CO",111000,2026-07-13,Hybrid
+EMP-0133,Rowan,Lewis,rowan.lewis133@celestialridgetech.example,2024-03-18,2026-05-28,Terminated,Full-Time,Sales Manager,Sales,SALES,EMP-0057,"Boston, MA",83000,2026-01-21,Hybrid
+EMP-0134,Elena,Kim,elena.kim134@celestialridgetech.example,2018-09-05,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0129,"Providence, RI",84000,2026-02-01,On-site
+EMP-0135,Drew,Diaz,drew.diaz135@celestialridgetech.example,2024-11-30,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0027,"Providence, RI",63000,2026-05-29,On-site
+EMP-0136,Morgan,Mitchell,morgan.mitchell136@celestialridgetech.example,2016-08-31,,Active,Part-Time,Sales Manager,Sales,SALES,,"Chicago, IL",108000,2026-01-15,On-site
+EMP-0137,Drew,Owens,drew.owens137@celestialridgetech.example,2021-02-15,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0108,"Denver, CO",68000,2026-01-14,Remote
+EMP-0138,Theo,Turner,theo.turner138@celestialridgetech.example,2019-11-20,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0136,"Denver, CO",135000,2026-07-02,Remote
+EMP-0139,Liam,Collins,liam.collins139@celestialridgetech.example,2023-10-25,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0052,"Providence, RI",106000,2026-05-14,Hybrid
+EMP-0140,Owen,Irwin,owen.irwin140@celestialridgetech.example,2025-02-26,2025-04-18,Terminated,Full-Time,Operations Manager,Operations,OPS,EMP-0104,"Providence, RI",103000,2026-07-10,Remote
+EMP-0141,Skyler,Anderson,skyler.anderson141@celestialridgetech.example,2020-06-08,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0089,"Chicago, IL",137000,2026-06-22,On-site
+EMP-0142,Casey,Owens,casey.owens142@celestialridgetech.example,2023-02-20,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0027,"Denver, CO",118000,2026-03-01,Remote
+EMP-0143,Taylor,Bennett,taylor.bennett143@celestialridgetech.example,2018-11-08,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0139,"Chicago, IL",114000,2026-03-21,Hybrid
+EMP-0144,Owen,Owens,owen.owens144@celestialridgetech.example,2023-12-30,2026-04-18,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0073,"Providence, RI",86000,2026-05-14,Hybrid
+EMP-0145,Sofia,Sullivan,sofia.sullivan145@celestialridgetech.example,2019-11-29,,Active,Part-Time,Account Executive,Sales,SALES,EMP-0098,"Charlotte, NC",137000,2026-04-20,Remote
+EMP-0146,Rowan,Owens,rowan.owens146@celestialridgetech.example,2022-05-21,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0071,"Chicago, IL",77000,2026-01-03,Remote
+EMP-0147,Avery,Patel,avery.patel147@celestialridgetech.example,2018-06-12,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0080,"Chicago, IL",96000,2026-08-19,On-site
+EMP-0148,Dakota,Mitchell,dakota.mitchell148@celestialridgetech.example,2025-07-21,2025-11-23,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0112,"Austin, TX",154000,2026-05-05,Remote
+EMP-0149,Alex,Turner,alex.turner149@celestialridgetech.example,2022-06-25,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0088,"Charlotte, NC",138000,2026-01-19,On-site
+EMP-0150,Riley,Edwards,riley.edwards150@celestialridgetech.example,2021-04-20,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0064,"Chicago, IL",106000,2026-01-21,Remote
+EMP-0151,Dakota,Lewis,dakota.lewis151@celestialridgetech.example,2018-10-25,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0146,"Denver, CO",62000,2026-06-29,Hybrid
+EMP-0152,Quinn,Brooks,quinn.brooks152@celestialridgetech.example,2016-07-21,,Active,Part-Time,Finance Manager,Finance,FIN,EMP-0129,"Boston, MA",86000,2026-06-14,On-site
+EMP-0153,Dakota,Patel,dakota.patel153@celestialridgetech.example,2021-11-28,2025-11-24,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,,"Denver, CO",132000,2026-01-03,On-site
+EMP-0154,Leah,Garcia,leah.garcia154@celestialridgetech.example,2019-03-26,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0079,"Boston, MA",103000,2026-08-05,Remote
+EMP-0155,Hayden,Flores,hayden.flores155@celestialridgetech.example,2021-11-15,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0135,"Chicago, IL",110000,2026-02-10,Remote
+EMP-0156,Alex,Edwards,alex.edwards156@celestialridgetech.example,2017-07-30,2026-05-15,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0028,"Austin, TX",116000,2026-08-08,Hybrid
+EMP-0157,Noah,Kim,noah.kim157@celestialridgetech.example,2024-12-21,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0142,"Boston, MA",82000,2026-01-12,Remote
+EMP-0158,Rowan,Patel,rowan.patel158@celestialridgetech.example,2018-03-12,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0070,"Chicago, IL",110000,2026-03-08,Hybrid
+EMP-0159,Alex,Morris,alex.morris159@celestialridgetech.example,2016-09-03,,Active,Part-Time,Operations Specialist,Operations,OPS,EMP-0104,"Charlotte, NC",61000,2026-03-18,Hybrid
+EMP-0160,Drew,Kim,drew.kim160@celestialridgetech.example,2023-07-15,,Active,Full-Time,Operations Specialist,Operations,OPS,,"Charlotte, NC",67000,2026-04-29,Hybrid
+EMP-0161,Skyler,Hayes,skyler.hayes161@celestialridgetech.example,2026-01-17,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0035,"Charlotte, NC",95000,2026-02-05,Hybrid
+EMP-0162,Drew,Sullivan,drew.sullivan162@celestialridgetech.example,2016-05-28,2024-02-11,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0139,"Charlotte, NC",129000,2026-05-28,Hybrid
+EMP-0163,Caleb,Johnson,caleb.johnson163@celestialridgetech.example,2017-05-29,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0132,"Providence, RI",127000,2026-02-14,Remote
+EMP-0164,Nina,Green,nina.green164@celestialridgetech.example,2016-05-19,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0137,"Boston, MA",79000,2026-03-21,Hybrid
+EMP-0165,Elena,Green,elena.green165@celestialridgetech.example,2025-04-25,,Active,Full-Time,Marketing Manager,Marketing,MKTG,,"Charlotte, NC",70000,2026-07-31,Remote
+EMP-0166,Avery,Sullivan,avery.sullivan166@celestialridgetech.example,2021-08-07,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0112,"Chicago, IL",118000,2026-03-08,Hybrid
+EMP-0167,Noah,Lewis,noah.lewis167@celestialridgetech.example,2020-12-19,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0008,"Boston, MA",107000,2026-07-08,Remote
+EMP-0168,Leah,Young,leah.young168@celestialridgetech.example,2025-06-09,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0084,"Charlotte, NC",95000,2026-03-20,Hybrid
+EMP-0169,Riley,Brooks,riley.brooks169@celestialridgetech.example,2022-02-25,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0156,"Providence, RI",78000,2026-07-30,Remote
+EMP-0170,Liam,Irwin,liam.irwin170@celestialridgetech.example,2024-09-01,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0038,"Providence, RI",80000,2026-05-28,Remote
+EMP-0171,Noah,Kim,noah.kim171@celestialridgetech.example,2023-03-29,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0099,"Charlotte, NC",108000,2026-05-06,On-site
+EMP-0172,Owen,Garcia,owen.garcia172@celestialridgetech.example,2025-04-26,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0016,"Austin, TX",85000,2026-04-30,Hybrid
+EMP-0173,Ethan,Diaz,ethan.diaz173@celestialridgetech.example,2026-04-20,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0137,"Denver, CO",55000,2026-03-26,Remote
+EMP-0174,Ava,Evans,ava.evans174@celestialridgetech.example,2016-02-12,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0155,"Denver, CO",74000,2026-02-07,Remote
+EMP-0175,Caleb,Edwards,caleb.edwards175@celestialridgetech.example,2024-08-05,2026-01-25,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0093,"Boston, MA",87000,2026-02-07,Hybrid
+EMP-0176,Hayden,Anderson,hayden.anderson176@celestialridgetech.example,2020-05-13,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0021,"Providence, RI",71000,2026-06-28,Remote
+EMP-0177,Avery,Owens,avery.owens177@celestialridgetech.example,2023-10-14,,Active,Full-Time,Product Manager,Product,PROD,EMP-0081,"Denver, CO",93000,2026-04-13,Hybrid
+EMP-0178,Theo,Kim,theo.kim178@celestialridgetech.example,2018-03-28,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0141,"Austin, TX",96000,2026-01-12,Remote
+EMP-0179,Cameron,Patel,cameron.patel179@celestialridgetech.example,2019-06-13,2019-11-29,Terminated,Full-Time,HR Specialist,Human Resources,HR,EMP-0164,"Boston, MA",59000,2026-05-27,Remote
+EMP-0180,Jordan,Kim,jordan.kim180@celestialridgetech.example,2016-04-14,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0116,"Providence, RI",118000,2026-05-17,Remote
+EMP-0181,Dakota,Walker,dakota.walker181@celestialridgetech.example,2023-05-18,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0089,"Charlotte, NC",65000,2026-06-03,Remote
+EMP-0182,Owen,Edwards,owen.edwards182@celestialridgetech.example,2018-12-27,,Active,Full-Time,Systems Analyst,Information Technology,IT,,"Austin, TX",83000,2026-03-31,Remote
+EMP-0183,Lucas,Carter,lucas.carter183@celestialridgetech.example,2019-07-07,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0134,"Chicago, IL",110000,2026-06-22,Remote
+EMP-0184,Ethan,Garcia,ethan.garcia184@celestialridgetech.example,2017-10-08,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0112,"Providence, RI",94000,2026-04-28,Remote
+EMP-0185,Noah,Green,noah.green185@celestialridgetech.example,2021-07-12,2022-09-21,Terminated,Part-Time,Marketing Manager,Marketing,MKTG,EMP-0147,"Chicago, IL",114000,2026-02-20,Hybrid
+EMP-0186,Elena,Owens,elena.owens186@celestialridgetech.example,2017-07-19,2018-07-16,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0124,"Chicago, IL",118000,2026-07-14,Remote
+EMP-0187,Skyler,Brooks,skyler.brooks187@celestialridgetech.example,2025-03-11,,Active,Part-Time,Customer Success Manager,Customer Success,CS,EMP-0054,"Austin, TX",86000,2026-03-05,Hybrid
+EMP-0188,Skyler,Evans,skyler.evans188@celestialridgetech.example,2020-12-03,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0005,"Charlotte, NC",95000,2026-05-06,Remote
+EMP-0189,Jamie,Turner,jamie.turner189@celestialridgetech.example,2019-07-31,,Active,Part-Time,Operations Manager,Operations,OPS,EMP-0188,"Providence, RI",107000,2026-05-03,Remote
+EMP-0190,Jordan,Johnson,jordan.johnson190@celestialridgetech.example,2021-07-09,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0163,"Charlotte, NC",116000,2026-08-29,Remote
+EMP-0191,Jordan,Walker,jordan.walker191@celestialridgetech.example,2024-07-17,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0064,"Austin, TX",75000,2026-03-11,Remote
+EMP-0192,Leah,Nguyen,leah.nguyen192@celestialridgetech.example,2023-01-24,,Active,Part-Time,Marketing Manager,Marketing,MKTG,EMP-0165,"Providence, RI",82000,2026-08-08,Hybrid
+EMP-0193,Zoe,Flores,zoe.flores193@celestialridgetech.example,2017-04-02,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0155,"Denver, CO",94000,2026-05-22,Hybrid
+EMP-0194,Grace,Collins,grace.collins194@celestialridgetech.example,2018-07-17,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0169,"Providence, RI",105000,2026-05-24,Remote
+EMP-0195,Morgan,Nguyen,morgan.nguyen195@celestialridgetech.example,2016-06-03,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0004,"Charlotte, NC",125000,2026-07-23,Hybrid
+EMP-0196,Nina,Nguyen,nina.nguyen196@celestialridgetech.example,2020-08-10,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0073,"Austin, TX",79000,2026-01-11,Hybrid
+EMP-0197,Jordan,Mitchell,jordan.mitchell197@celestialridgetech.example,2019-04-21,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0007,"Providence, RI",102000,2026-03-15,Hybrid
+EMP-0198,Sofia,Mitchell,sofia.mitchell198@celestialridgetech.example,2023-12-19,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0163,"Providence, RI",106000,2026-02-11,Hybrid
+EMP-0199,Emerson,Carter,emerson.carter199@celestialridgetech.example,2023-07-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0127,"Charlotte, NC",138000,2026-08-01,Hybrid
+EMP-0200,Riley,Kim,riley.kim200@celestialridgetech.example,2021-06-20,2024-03-18,Terminated,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0119,"Providence, RI",129000,2026-02-02,Remote
+EMP-0201,Chloe,Lewis,chloe.lewis201@celestialridgetech.example,2021-08-28,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0190,"Denver, CO",125000,2026-03-18,Remote
+EMP-0202,Theo,Carter,theo.carter202@celestialridgetech.example,2016-09-16,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0161,"Denver, CO",79000,2026-03-10,On-site
+EMP-0203,Ethan,Owens,ethan.owens203@celestialridgetech.example,2019-07-02,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0002,"Charlotte, NC",137000,2026-05-26,Hybrid
+EMP-0204,Riley,Flores,riley.flores204@celestialridgetech.example,2020-09-19,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0049,"Austin, TX",85000,2026-06-07,On-site
+EMP-0205,Jamie,Sullivan,jamie.sullivan205@celestialridgetech.example,2021-09-26,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0071,"Denver, CO",78000,2026-05-11,Remote
+EMP-0206,Jordan,Morris,jordan.morris206@celestialridgetech.example,2016-12-12,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0030,"Providence, RI",130000,2026-06-10,Hybrid
+EMP-0207,Ava,James,ava.james207@celestialridgetech.example,2021-05-22,,Active,Part-Time,Marketing Specialist,Marketing,MKTG,EMP-0165,"Austin, TX",99000,2026-03-12,Hybrid
+EMP-0208,Lucas,Johnson,lucas.johnson208@celestialridgetech.example,2019-01-29,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0152,"Austin, TX",66000,2026-04-01,Remote
+EMP-0209,Blake,Turner,blake.turner209@celestialridgetech.example,2022-08-13,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0085,"Providence, RI",60000,2026-06-12,Remote
+EMP-0210,Riley,Carter,riley.carter210@celestialridgetech.example,2017-11-27,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0127,"Chicago, IL",140000,2026-06-03,On-site
+EMP-0211,Chloe,Howard,chloe.howard211@celestialridgetech.example,2021-12-23,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0203,"Boston, MA",89000,2026-08-02,Remote
+EMP-0212,Morgan,Edwards,morgan.edwards212@celestialridgetech.example,2019-05-22,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0070,"Providence, RI",68000,2026-08-18,Hybrid
+EMP-0213,Liam,Foster,liam.foster213@celestialridgetech.example,2025-12-03,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0147,"Charlotte, NC",86000,2026-05-03,Remote
+EMP-0214,Skyler,Anderson,skyler.anderson214@celestialridgetech.example,2025-05-10,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0182,"Boston, MA",104000,2026-02-26,Remote
+EMP-0215,Jamie,James,jamie.james215@celestialridgetech.example,2020-09-20,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0135,"Providence, RI",61000,2026-03-09,On-site
+EMP-0216,Henry,James,henry.james216@celestialridgetech.example,2026-01-03,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0184,"Denver, CO",118000,2026-01-07,Hybrid
+EMP-0217,Sofia,Turner,sofia.turner217@celestialridgetech.example,2024-06-07,,Active,Full-Time,Engineering Manager,Engineering,ENG,,"Chicago, IL",95000,2026-02-02,Hybrid
+EMP-0218,Quinn,Patel,quinn.patel218@celestialridgetech.example,2018-05-15,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0103,"Denver, CO",107000,2026-01-29,Remote
+EMP-0219,Caleb,James,caleb.james219northstarsolutions.example,2022-04-19,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0119,"Boston, MA",61000,2026-06-06,Hybrid
+EMP-0220,Henry,Turner,henry.turner220@celestialridgetech.example,2025-02-08,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0178,"Austin, TX",130000,2026-02-01,Remote
+EMP-0221,Nina,Sullivan,nina.sullivan221@celestialridgetech.example,2024-06-27,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0030,"Charlotte, NC",135000,2026-06-24,Hybrid
+EMP-0222,Avery,Irwin,avery.irwin222@celestialridgetech.example,2022-05-08,,Active,Part-Time,Software Engineer,Engineering,ENG,EMP-0110,"Austin, TX",137000,2026-05-02,On-site
+EMP-0223,Owen,Edwards,owen.edwards223@celestialridgetech.example,2020-03-26,,Active,Part-Time,Senior CSM,Customer Success,CS,EMP-0020,"Boston, MA",85000,2026-07-23,Remote
+EMP-0224,Theo,Kelly,theo.kelly224@celestialridgetech.example,2022-10-20,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0189,"Boston, MA",60000,2026-01-05,Hybrid
+EMP-0225,Reese,Kim,reese.kim225@celestialridgetech.example,2017-05-04,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0141,"Austin, TX",90000,2026-06-10,Hybrid
+EMP-0226,Morgan,Diaz,morgan.diaz226@celestialridgetech.example,2024-11-26,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0211,"Denver, CO",119000,2026-03-27,Remote
+EMP-0227,Jamie,James,jamie.james227@celestialridgetech.example,2020-06-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0076,"Boston, MA",111000,2026-07-27,Hybrid
+EMP-0228,Zoe,Anderson,zoe.anderson228@celestialridgetech.example,2017-07-02,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0178,"Boston, MA",117000,2026-01-21,Hybrid
+EMP-0229,Blake,Foster,blake.foster229@celestialridgetech.example,2022-11-14,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0176,"Austin, TX",53000,2026-05-31,Remote
+EMP-0230,Jordan,Sullivan,jordan.sullivan230@celestialridgetech.example,2017-04-30,2018-03-12,Terminated,Full-Time,Account Executive,Sales,SALES,,"Boston, MA",76000,2026-08-11,Remote
+EMP-0231,Dakota,Foster,dakota.foster231@celestialridgetech.example,2022-05-04,2024-04-11,Terminated,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0111,"Boston, MA",79000,2026-03-25,Remote
+EMP-0232,Logan,Evans,logan.evans232@celestialridgetech.example,2023-03-15,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0079,"Boston, MA",139000,2026-02-17,Hybrid
+EMP-0233,Elena,Young,elena.young233@celestialridgetech.example,2020-12-14,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0100,"Boston, MA",83000,2026-06-05,Remote
+EMP-0234,Grace,Green,grace.green234@celestialridgetech.example,2018-11-16,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0156,"Austin, TX",71000,2026-01-15,Hybrid
+EMP-0235,Jamie,Howard,jamie.howard235@celestialridgetech.example,2020-07-31,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0216,"Chicago, IL",101000,2026-01-19,On-site
+EMP-0236,Alex,Johnson,alex.johnson236@celestialridgetech.example,2025-09-25,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0106,"Austin, TX",109000,2026-01-28,Hybrid
+EMP-0237,Miles,Flores,miles.flores237@celestialridgetech.example,2016-12-04,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0166,"Providence, RI",92000,2026-03-16,On-site
+EMP-0238,Riley,James,riley.james238@celestialridgetech.example,2019-01-04,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0015,"Austin, TX",72000,2026-05-09,Hybrid
+EMP-0239,Morgan,James,morgan.james239@celestialridgetech.example,2016-03-15,,Active,Full-Time,Senior Product Manager,Product,PROD,,"Denver, CO",135000,2026-06-27,Remote
+EMP-0240,Blake,Turner,blake.turner240@celestialridgetech.example,2025-11-09,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0219,"Chicago, IL",113000,2026-01-30,On-site
+EMP-0241,Alex,Owens,alex.owens241@celestialridgetech.example,2020-06-09,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0052,"Chicago, IL",129000,2026-01-06,Remote
+EMP-0242,Chloe,Green,chloe.green242@celestialridgetech.example,2025-12-29,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0206,"Providence, RI",119000,2026-07-21,Hybrid
+EMP-0243,Emerson,Walker,emerson.walker243@celestialridgetech.example,2016-09-16,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0182,"Austin, TX",82000,2026-08-13,Hybrid
+EMP-0244,Theo,Edwards,theo.edwards244@celestialridgetech.example,2018-06-27,2025-06-14,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0125,"Denver, CO",124000,2026-06-08,Remote
+EMP-0245,Sofia,Collins,sofia.collins245@celestialridgetech.example,2025-08-01,2025-12-02,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0025,"Charlotte, NC",113000,2026-06-15,Remote
+EMP-0246,Theo,Edwards,theo.edwards246@celestialridgetech.example,2016-04-26,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0160,"Charlotte, NC",110000,2026-05-03,On-site
+EMP-0247,Nina,Hayes,nina.hayes247@celestialridgetech.example,2017-07-20,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0100,"Chicago, IL",131000,2026-05-01,Remote
+EMP-0248,Noah,Brooks,noah.brooks248@celestialridgetech.example,2018-01-16,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0205,"Denver, CO",77000,2026-08-26,Hybrid
+EMP-0249,Chloe,Anderson,chloe.anderson249@celestialridgetech.example,2025-03-19,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0192,"Charlotte, NC",82000,2026-04-14,Hybrid
+EMP-0250,Miles,Patel,miles.patel250@celestialridgetech.example,2018-06-19,2019-05-09,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0127,"Chicago, IL",152000,2026-02-17,Hybrid
+EMP-0251,Jack,Carter,jack.carter251@celestialridgetech.example,2017-02-02,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0088,"Denver, CO",120000,2026-08-05,Remote
+EMP-0252,Quinn,Young,quinn.young252@celestialridgetech.example,2016-05-12,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0134,"Chicago, IL",117000,2026-01-06,Hybrid
+EMP-0253,Leah,Diaz,leah.diaz253@celestialridgetech.example,2024-04-06,,Active,Part-Time,Analytics Manager,Data & Analytics,DATA,EMP-0035,"Charlotte, NC",98000,2026-03-29,Remote
+EMP-0254,Avery,Reed,avery.reed254@celestialridgetech.example,2021-05-01,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0195,"Providence, RI",112000,2026-03-17,Hybrid
+EMP-0255,Emerson,Green,emerson.green255@celestialridgetech.example,2020-06-27,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0021,"Austin, TX",56000,2026-03-30,Remote
+EMP-0256,Parker,Howard,parker.howard256@celestialridgetech.example,2018-04-10,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0111,"Denver, CO",113000,2026-04-13,On-site
+EMP-0257,Ethan,Brooks,ethan.brooks257@celestialridgetech.example,2024-07-22,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0050,"Boston, MA",113000,2026-07-31,Hybrid
+EMP-0258,Ethan,Bennett,ethan.bennett258@celestialridgetech.example,2025-07-25,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0101,"Charlotte, NC",122000,2026-07-01,Hybrid
+EMP-0259,Liam,Irwin,liam.irwin259@celestialridgetech.example,2018-02-08,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0209,"Boston, MA",100000,2026-01-31,Hybrid
+EMP-0260,Rowan,Collins,rowan.collins260@celestialridgetech.example,2017-11-12,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0138,"Boston, MA",89000,2026-05-06,On-site
+EMP-0261,Quinn,Anderson,quinn.anderson261@celestialridgetech.example,2026-05-15,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0118,"Denver, CO",113000,2026-05-17,Hybrid
+EMP-0262,Noah,Evans,noah.evans262@celestialridgetech.example,2017-03-04,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0112,"Denver, CO",107000,2026-07-26,Remote
+EMP-0263,Blake,Irwin,blake.irwin263@celestialridgetech.example,2017-06-20,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0087,"Providence, RI",78000,2026-02-13,Remote
+EMP-0264,Blake,Sullivan,blake.sullivan264@celestialridgetech.example,2022-07-25,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0083,"Austin, TX",155000,2026-05-14,Remote
+EMP-0265,Skyler,Carter,skyler.carter265@celestialridgetech.example,2021-09-10,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0014,"Austin, TX",149000,2026-02-10,Hybrid
+EMP-0266,Jack,Young,jack.young266@celestialridgetech.example,2025-11-27,,Active,Full-Time,Product Analyst,Product,OPS,EMP-0261,"Providence, RI",107000,2026-06-09,Hybrid
+EMP-0267,Morgan,Foster,morgan.foster267@celestialridgetech.example,2019-01-26,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0124,"Providence, RI",112000,2026-06-14,On-site
+EMP-0268,Zoe,James,zoe.james268@celestialridgetech.example,2017-08-01,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0137,"Boston, MA",79000,2026-05-12,Remote
+EMP-0269,Mia,Foster,mia.foster269@celestialridgetech.example,2021-11-06,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0003,"Austin, TX",144000,2026-06-11,On-site
+EMP-0270,Rowan,Flores,rowan.flores270@celestialridgetech.example,2022-09-05,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0107,"Providence, RI",122000,2026-02-18,Remote
+EMP-0271,Theo,Mitchell,theo.mitchell271@celestialridgetech.example,2019-11-11,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0013,"Denver, CO",116000,2026-05-26,Hybrid
+EMP-0272,Maya,Owens,maya.owens272@celestialridgetech.example,2016-08-25,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0226,"Providence, RI",137000,2026-03-01,Remote
+EMP-0273,Parker,Howard,parker.howard273@celestialridgetech.example,2018-02-26,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0206,"Austin, TX",92000,2026-06-27,Remote
+EMP-0274,Lucas,Young,lucas.young274@celestialridgetech.example,2017-06-07,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0264,"Providence, RI",134000,2026-03-20,Remote
+EMP-0275,Casey,Turner,casey.turner275@celestialridgetech.example,2021-09-28,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0094,"Boston, MA",124000,2026-04-11,Remote
+EMP-0276,Lucas,Garcia,lucas.garcia276@celestialridgetech.example,2023-09-15,,Active,Part-Time,Data Analyst,Data & Analytics,DATA,EMP-0072,"Chicago, IL",93000,2026-02-05,Hybrid
+EMP-0277,Nina,Evans,nina.evans277@celestialridgetech.example,2018-01-23,,Active,Full-Time,Product Analyst,Product,PROD,,"Providence, RI",83000,2026-02-16,Remote
+EMP-0278,Owen,Edwards,owen.edwards278@celestialridgetech.example,2016-05-06,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0165,"Charlotte, NC",72000,2026-01-01,Remote
+EMP-0279,Morgan,Young,morgan.young279@celestialridgetech.example,2021-12-12,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0099,"Providence, RI",97000,2026-01-13,Remote
+EMP-0280,Ava,Turner,ava.turner280@celestialridgetech.example,2020-11-19,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0113,"Charlotte, NC",54000,2026-03-17,Hybrid
+EMP-0281,Jordan,Johnson,jordan.johnson281@celestialridgetech.example,2018-08-03,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0130,"Providence, RI",134000,2026-03-23,On-site
+EMP-0282,Dakota,Anderson,dakota.anderson282@celestialridgetech.example,2023-02-12,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0071,"Charlotte, NC",137000,2026-02-07,Remote
+EMP-0283,Jordan,Sullivan,jordan.sullivan283@celestialridgetech.example,2023-12-29,,Active,Full-Time,Product Manager,Product,PROD,EMP-0277,"Chicago, IL",141000,2026-03-16,Hybrid
+EMP-0284,Dakota,Garcia,dakota.garcia284@celestialridgetech.example,2022-05-23,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0038,"Boston, MA",73000,2026-07-24,Remote
+EMP-0285,Owen,Reed,owen.reed285@celestialridgetech.example,2023-11-16,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0207,"Boston, MA",94000,2026-03-18,Hybrid
+EMP-0286,Drew,Garcia,drew.garcia286@celestialridgetech.example,2021-12-08,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0108,"Boston, MA",103000,2026-05-19,On-site
+EMP-0287,Mia,Garcia,mia.garcia287@celestialridgetech.example,2024-07-28,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0278,"Providence, RI",109000,2026-08-12,Remote
+EMP-0288,Emerson,Mitchell,emerson.mitchell288@celestialridgetech.example,2026-04-25,,Active,Part-Time,Software Engineer,Engineering,ENG,EMP-0083,"Chicago, IL",134000,2026-01-27,Remote
+EMP-0289,Quinn,Kelly,quinn.kelly289@celestialridgetech.example,2016-11-30,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0274,"Denver, CO",137000,2026-06-15,Remote
+EMP-0290,Leah,Flores,leah.flores290@celestialridgetech.example,2024-05-30,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0259,"Boston, MA",89000,2026-05-22,Remote
+EMP-0291,Elena,Lewis,elena.lewis291@celestialridgetech.example,2023-12-17,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0048,"Charlotte, NC",78000,2026-07-08,Remote
+EMP-0292,Zoe,Diaz,zoe.diaz292@celestialridgetech.example,2017-11-12,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0131,"Providence, RI",116000,2026-01-31,On-site
+EMP-0293,Alex,Turner,alex.turner293@celestialridgetech.example,2022-03-16,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0267,"Chicago, IL",141000,2026-06-05,Remote
+EMP-0294,Caleb,Turner,caleb.turner294@celestialridgetech.example,2019-07-16,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0115,"Providence, RI",80000,2026-08-26,Remote
+EMP-0295,Lucas,Garcia,lucas.garcia295@celestialridgetech.example,2016-10-26,,Active,Part-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0024,"Providence, RI",108000,2026-04-19,Remote
+EMP-0296,Ava,Turner,ava.turner296@celestialridgetech.example,2020-03-10,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0292,"Austin, TX",59000,2026-01-11,Remote
+EMP-0297,Casey,Diaz,casey.diaz297@celestialridgetech.example,2022-04-01,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0248,"Austin, TX",61000,2026-02-23,Remote
+EMP-0298,Zoe,Foster,zoe.foster298@celestialridgetech.example,2020-03-13,2023-02-16,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0062,"Austin, TX",92000,2026-03-09,Remote
+EMP-0299,Riley,Kim,riley.kim299@celestialridgetech.example,2020-10-24,2023-05-24,Terminated,Full-Time,Systems Analyst,Information Technology,IT,EMP-0243,"Chicago, IL",101000,2026-05-23,Hybrid
+EMP-0300,Skyler,Nguyen,skyler.nguyen300@celestialridgetech.example,2021-12-06,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0089,"Chicago, IL",120000,2026-06-05,Hybrid
+EMP-0301,Owen,Reed,owen.reed301@celestialridgetech.example,2021-05-01,2022-10-28,Terminated,Full-Time,Finance Manager,Finance,FIN,EMP-0208,"Boston, MA",102000,2026-02-05,Hybrid
+EMP-0302,Taylor,Nguyen,taylor.nguyen302@celestialridgetech.example,2017-04-13,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0279,"Denver, CO",150000,2026-07-06,Remote
+EMP-0303,Blake,Foster,blake.foster303@celestialridgetech.example,2021-05-16,2025-01-30,Terminated,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0080,"Providence, RI",86000,2026-02-20,Hybrid
+EMP-0304,Noah,Turner,noah.turner304@celestialridgetech.example,2023-08-30,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0136,"Providence, RI",104000,2026-03-05,On-site
+EMP-0305,Quinn,Foster,quinn.foster305@celestialridgetech.example,2021-08-09,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0271,"Chicago, IL",137000,2026-03-03,Remote
+EMP-0306,Ethan,James,ethan.james306@celestialridgetech.example,2022-01-20,,Active,Full-Time,Engineering Manager,Engineering,ENG,,"Austin, TX",109000,2026-07-29,Remote
+EMP-0307,Quinn,Owens,quinn.owens307@celestialridgetech.example,2022-11-12,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0257,"Boston, MA",102000,2026-02-11,Remote
+EMP-0308,Blake,Kelly,blake.kelly308@celestialridgetech.example,2025-03-08,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0295,"Austin, TX",127000,2026-06-19,Remote
+EMP-0309,Zoe,Collins,zoe.collins309@celestialridgetech.example,2020-11-18,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0293,"Boston, MA",107000,2026-07-29,Hybrid
+EMP-0310,Caleb,Collins,caleb.collins310@celestialridgetech.example,2022-01-15,2022-04-21,Terminated,Full-Time,Operations Analyst,Operations,OPS,EMP-0188,"Austin, TX",98000,2026-04-28,Hybrid
+EMP-0311,Emerson,Brooks,emerson.brooks311@celestialridgetech.example,2020-09-16,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0024,"Charlotte, NC",98000,2026-06-24,Hybrid
+EMP-0312,Lucas,Johnson,lucas.johnson312@celestialridgetech.example,2016-04-13,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0118,"Chicago, IL",131000,2026-04-22,Remote
+EMP-0313,Morgan,Young,morgan.young313@celestialridgetech.example,2023-04-23,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0025,"Providence, RI",95000,2026-02-06,Remote
+EMP-0314,Grace,Nguyen,grace.nguyen314@celestialridgetech.example,2020-09-06,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0057,"Chicago, IL",98000,2026-06-14,Remote
+EMP-0315,Henry,Hayes,henry.hayes315@celestialridgetech.example,2024-03-26,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0183,"Austin, TX",122000,2026-06-30,Remote
+EMP-0316,Mia,Anderson,mia.anderson316@celestialridgetech.example,2018-02-07,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0286,"Austin, TX",70000,2026-02-09,Remote
+EMP-0317,Taylor,Irwin,taylor.irwin317@celestialridgetech.example,2017-03-03,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0149,"Chicago, IL",86000,2026-08-15,Hybrid
+EMP-0318,Parker,Turner,parker.turner318@celestialridgetech.example,2023-05-06,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0081,"Boston, MA",81000,2026-05-13,Remote
+EMP-0319,Zoe,Foster,zoe.foster319@celestialridgetech.example,2019-08-27,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0157,"Austin, TX",97000,2026-02-23,Hybrid
+EMP-0320,Reese,Flores,reese.flores320@celestialridgetech.example,2024-11-07,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0255,"Boston, MA",76000,2026-05-10,Remote
+EMP-0321,Caleb,Young,caleb.young321@celestialridgetech.example,2017-05-11,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,,"Denver, CO",155000,2026-02-15,Hybrid
+EMP-0322,Mia,Reed,mia.reed322@celestialridgetech.example,2016-08-01,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0073,"Charlotte, NC",96000,2026-01-31,Remote
+EMP-0323,Parker,Reed,parker.reed323@celestialridgetech.example,2025-03-27,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0164,"Providence, RI",84000,2026-01-06,Hybrid
+EMP-0324,Ethan,Foster,ethan.foster324@celestialridgetech.example,2023-05-21,,Active,Full-Time,HR Coordinator,Human Resources,HR,,"Charlotte, NC",70000,2026-08-26,Remote
+EMP-0325,Avery,Kelly,avery.kelly325@celestialridgetech.example,2019-06-08,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Denver, CO",96000,2026-01-13,Hybrid
+EMP-0326,Leah,Carter,leah.carter326@celestialridgetech.example,2018-01-09,2020-07-25,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0258,"Charlotte, NC",103000,2026-05-05,Remote
+EMP-0327,Noah,Morris,noah.morris327@celestialridgetech.example,2021-02-21,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0071,"Charlotte, NC",127000,2026-03-04,Remote
+EMP-0328,Lucas,Turner,lucas.turner328@celestialridgetech.example,2018-11-20,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0182,"Chicago, IL",67000,2026-01-29,On-site
+EMP-0329,Elena,Kim,elena.kim329@celestialridgetech.example,2021-08-24,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0017,"Denver, CO",68000,2026-07-28,Hybrid
+EMP-0330,Chloe,Collins,chloe.collins330@celestialridgetech.example,2016-03-05,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0110,"Providence, RI",124000,2026-05-07,Hybrid
+EMP-0331,Skyler,Howard,skyler.howard331@celestialridgetech.example,2024-07-10,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0039,"Boston, MA",122000,2026-05-01,Remote
+EMP-0332,Logan,Mitchell,logan.mitchell332@celestialridgetech.example,2020-10-03,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0166,"Denver, CO",147000,2026-06-07,Remote
+EMP-0333,Casey,Hayes,casey.hayes333@celestialridgetech.example,2024-05-15,,Active,Part-Time,Account Executive,Sales,SALES,EMP-0170,"Austin, TX",65000,2026-04-20,Remote
+EMP-0334,Zoe,Johnson,zoe.johnson334@celestialridgetech.example,2018-03-20,2018-07-18,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0221,"Chicago, IL",123000,2026-04-01,Hybrid
+EMP-0335,Alex,Evans,alex.evans335@celestialridgetech.example,2018-09-12,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0090,"Charlotte, NC",102000,2026-06-04,Hybrid
+EMP-0336,Dakota,Brooks,dakota.brooks336@celestialridgetech.example,2017-12-10,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0134,"Providence, RI",90000,2026-01-31,On-site
+EMP-0337,Alex,Foster,alex.foster337@celestialridgetech.example,2017-10-15,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0225,"Denver, CO",135000,2026-01-27,On-site
+EMP-0338,Nina,Garcia,nina.garcia338@celestialridgetech.example,2018-03-11,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0106,"Denver, CO",59000,2026-03-13,Remote
+EMP-0339,Nina,Irwin,nina.irwin339@celestialridgetech.example,2022-10-21,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0109,"Boston, MA",65000,2026-04-14,On-site
+EMP-0340,Miles,Evans,miles.evans340@celestialridgetech.example,2022-12-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0049,"Providence, RI",154000,2026-01-02,Hybrid
+EMP-0341,Elena,Flores,elena.flores341@celestialridgetech.example,2019-09-20,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0084,"Denver, CO",108000,2026-04-06,On-site
+EMP-0342,Miles,Kelly,miles.kelly342@celestialridgetech.example,2023-09-26,2024-11-25,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0204,"Providence, RI",102000,2026-08-23,Remote
+EMP-0343,Noah,Brooks,noah.brooks343@celestialridgetech.example,2019-02-20,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0198,"Charlotte, NC",72000,2026-02-12,Hybrid
+EMP-0344,Parker,Mitchell,parker.mitchell344@celestialridgetech.example,2016-10-25,,Active,Part-Time,Customer Success Specialist,Customer Success,CS,EMP-0257,"Boston, MA",56000,2026-04-08,Hybrid
+EMP-0345,Grace,Sullivan,grace.sullivan345@celestialridgetech.example,2018-02-17,,Terminated,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0170,"Charlotte, NC",103000,2026-03-26,Remote
+EMP-0346,Dakota,Lewis,dakota.lewis346@celestialridgetech.example,2026-03-29,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0283,"Charlotte, NC",132000,2026-03-06,Hybrid
+EMP-0347,Miles,Bennett,miles.bennett347@celestialridgetech.example,2026-06-07,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0258,"Providence, RI",96000,2026-05-24,Hybrid
+EMP-0348,Reese,Reed,reese.reed348@celestialridgetech.example,2017-12-24,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0229,"Chicago, IL",65000,2026-05-29,On-site
+EMP-0349,Riley,Carter,riley.carter349@celestialridgetech.example,2016-08-17,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0138,"Boston, MA",101000,2026-04-25,Hybrid
+EMP-0350,Elena,Morris,elena.morris350@celestialridgetech.example,2018-11-05,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0126,"Denver, CO",101000,2026-08-25,Hybrid
+EMP-0351,Zoe,Nguyen,zoe.nguyen351@celestialridgetech.example,2022-10-25,,Active,Full-Time,Product Manager,Product,PROD,EMP-0032,"Boston, MA",124000,2026-01-31,Remote
+EMP-0352,Emerson,Foster,emerson.foster352@celestialridgetech.example,2025-06-15,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0203,"Austin, TX",114000,2026-02-18,Remote
+EMP-0353,Taylor,Evans,taylor.evans353@celestialridgetech.example,2018-04-01,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0070,"Charlotte, NC",128000,2026-03-16,Remote
+EMP-0354,Quinn,Evans,quinn.evans354@celestialridgetech.example,2019-05-27,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0149,"Denver, CO",124000,2026-07-31,Hybrid
+EMP-0355,Miles,Patel,miles.patel355@celestialridgetech.example,2026-01-06,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0288,"Denver, CO",101000,2026-04-05,Remote
+EMP-0356,Jordan,Irwin,jordan.irwin356@celestialridgetech.example,2023-10-20,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0027,"Denver, CO",102000,2026-01-29,Hybrid
+EMP-0357,Morgan,Hayes,morgan.hayes357@celestialridgetech.example,2026-05-12,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0268,"Charlotte, NC",105000,2026-01-02,Remote
+EMP-0358,Miles,Green,miles.green358@celestialridgetech.example,2016-12-27,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0291,"Providence, RI",93000,2026-02-09,Remote
+EMP-0359,Casey,Anderson,casey.anderson359@celestialridgetech.example,2016-07-09,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0352,"Charlotte, NC",126000,2026-01-29,Hybrid
+EMP-0360,Drew,Owens,drew.owens360@celestialridgetech.example,2016-09-12,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0192,"Charlotte, NC",97000,2026-08-29,Hybrid
+EMP-0361,Casey,Carter,casey.carter361@celestialridgetech.example,2017-01-14,2022-08-04,Terminated,Full-Time,Operations Manager,Operations,OPS,EMP-0188,"Austin, TX",105000,2026-01-23,Hybrid
+EMP-0362,Caleb,Brooks,caleb.brooks362@celestialridgetech.example,2026-03-18,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0126,"Denver, CO",88000,2026-03-13,On-site
+EMP-0363,Henry,Kelly,henry.kelly363@celestialridgetech.example,2025-11-08,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0192,"Austin, TX",63000,2026-04-01,Hybrid
+EMP-0364,Liam,Bennett,liam.bennett364@celestialridgetech.example,2025-01-14,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0100,"Denver, CO",121000,2026-06-01,Remote
+EMP-0365,Mia,Sullivan,mia.sullivan365@celestialridgetech.example,2018-06-19,2022-04-20,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0248,"Charlotte, NC",114000,2026-02-26,Remote
+EMP-0366,Miles,Edwards,miles.edwards366@celestialridgetech.example,2021-03-24,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0354,"Austin, TX",148000,2026-05-04,Remote
+EMP-0367,Mia,Foster,mia.foster367@celestialridgetech.example,2026-03-09,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0332,"Boston, MA",128000,2026-04-01,Hybrid
+EMP-0368,Henry,Bennett,henry.bennett368@celestialridgetech.example,2021-04-20,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0275,"Boston, MA",90000,2026-01-13,Remote
+EMP-0369,Reese,Garcia,reese.garcia369@celestialridgetech.example,2020-05-09,,Active,Full-Time,Product Manager,Product,PROD,,"Austin, TX",115000,2026-05-16,Remote
+EMP-0370,Skyler,Edwards,skyler.edwards370@celestialridgetech.example,2018-10-07,,Active,Part-Time,Sales Manager,Sales,SALES,EMP-0327,"Denver, CO",65000,2026-04-03,On-site
+EMP-0371,Emerson,Edwards,emerson.edwards371@celestialridgetech.example,2021-07-24,,Active,Full-Time,Product Manager,Product,PROD,EMP-0261,"Charlotte, NC",79000,2026-07-24,Hybrid
+EMP-0372,Cameron,Evans,cameron.evans372@celestialridgetech.example,2017-10-14,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0291,"Providence, RI",68000,2026-04-22,Hybrid
+EMP-0373,Cameron,Foster,cameron.foster373@celestialridgetech.example,2022-07-27,2023-03-26,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0225,"Denver, CO",69000,2026-01-05,On-site
+EMP-0374,Sofia,Turner,sofia.turner374@celestialridgetech.example,2024-02-12,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0174,"Boston, MA",91000,2026-06-21,Remote
+EMP-0375,Lucas,Garcia,lucas.garcia375@celestialridgetech.example,2018-06-15,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0114,"Austin, TX",104000,2026-07-27,Remote
+EMP-0376,Grace,Garcia,grace.garcia376@celestialridgetech.example,2019-11-18,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0338,"Denver, CO",62000,2026-01-18,Remote
+EMP-0377,Elena,Walker,elena.walker377@celestialridgetech.example,2017-09-02,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0139,"Providence, RI",112000,2026-04-27,On-site
+EMP-0378,Chloe,Hayes,chloe.hayes378@celestialridgetech.example,2020-12-18,,Active,Part-Time,Operations Manager,Operations,OPS,EMP-0320,"Denver, CO",96000,2026-07-28,Remote
+EMP-0379,Lucas,Owens,lucas.owens379@celestialridgetech.example,2023-11-11,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0099,"Chicago, IL",87000,2026-03-18,Remote
+EMP-0380,Caleb,Young,caleb.young380@celestialridgetech.example,2021-10-13,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0178,"Austin, TX",78000,2026-01-03,Remote
+EMP-0381,Noah,Brooks,noah.brooks381@celestialridgetech.example,2022-08-04,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0101,"Boston, MA",99000,2026-07-24,Hybrid
+EMP-0382,Chloe,Owens,chloe.owens382@celestialridgetech.example,2016-12-20,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0366,"Charlotte, NC",144000,2026-02-04,Hybrid
+EMP-0383,Jamie,Anderson,jamie.anderson383@celestialridgetech.example,2024-05-17,2025-02-27,Terminated,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0234,"Boston, MA",78000,2026-04-05,Remote
+EMP-0384,Reese,James,reese.james384@celestialridgetech.example,2024-05-20,,Active,Full-Time,Product Analyst,Product,PROD,,"Providence, RI",84000,2026-07-04,Hybrid
+EMP-0385,Ethan,Brooks,ethan.brooks385@celestialridgetech.example,2017-04-08,2026-02-04,Terminated,Part-Time,Senior Software Engineer,Engineering,ENG,EMP-0184,"Boston, MA",101000,2026-01-13,Hybrid
+EMP-0386,Jamie,Nguyen,jamie.nguyen386@celestialridgetech.example,2017-01-14,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0024,"Denver, CO",96000,2026-05-04,On-site
+EMP-0387,Chloe,Kim,chloe.kim387@celestialridgetech.example,2018-01-06,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0291,"Chicago, IL",87000,2026-03-10,Remote
+EMP-0388,Nina,James,nina.james388@celestialridgetech.example,2024-08-28,,Active,Part-Time,Engineering Manager,Engineering,ENG,EMP-0083,"Chicago, IL",109000,2026-06-07,Remote
+EMP-0389,Alex,Edwards,alex.edwards389@celestialridgetech.example,2020-12-01,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0031,"Austin, TX",119000,2026-04-17,Remote
+EMP-0390,Ava,Bennett,ava.bennett390@celestialridgetech.example,2021-12-05,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0046,"Chicago, IL",107000,2026-07-06,Remote
+EMP-0391,Theo,Turner,theo.turner391@celestialridgetech.example,2020-03-18,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0314,"Boston, MA",135000,2026-07-21,On-site
+EMP-0392,Parker,Howard,parker.howard392@celestialridgetech.example,2019-05-09,2024-12-24,Terminated,Full-Time,Financial Analyst,Finance,FIN,EMP-0134,"Denver, CO",122000,2026-03-14,Remote
+EMP-0393,Parker,Reed,parker.reed393@celestialridgetech.example,2016-06-24,2024-01-11,Terminated,Part-Time,Legal Operations Manager,Legal,LEGAL,EMP-0132,"Austin, TX",125000,2026-08-21,Hybrid
+EMP-0394,Ava,Carter,ava.carter394@celestialridgetech.example,2019-04-18,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0267,"Boston, MA",97000,2026-04-09,Hybrid
+EMP-0395,Noah,Green,noah.green395@celestialridgetech.example,2018-12-14,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0159,"Denver, CO",105000,2026-07-14,Hybrid
+EMP-0396,Theo,James,theo.james396@celestialridgetech.example,2017-05-10,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0267,"Boston, MA",154000,2026-05-01,Hybrid
+EMP-0397,Sofia,Sullivan,sofia.sullivan397@celestialridgetech.example,2020-09-15,,Active,Part-Time,Senior CSM,Customer Success,CS,EMP-0011,"Charlotte, NC",78000,2026-01-07,Hybrid
+EMP-0398,Henry,Young,henry.young398@celestialridgetech.example,2018-06-10,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0293,"Boston, MA",132000,2026-03-24,Hybrid
+EMP-0399,Theo,Lewis,theo.lewis399@celestialridgetech.example,2024-09-23,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0206,"Austin, TX",120000,2026-04-25,Remote
+EMP-0400,Jamie,Collins,jamie.collins400@celestialridgetech.example,2023-03-01,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0119,"Boston, MA",80000,2026-05-03,Hybrid
+EMP-0401,Caleb,Anderson,caleb.anderson401@celestialridgetech.example,2017-06-26,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0020,"Charlotte, NC",104000,2026-05-01,Hybrid
+EMP-0402,Avery,Sullivan,avery.sullivan402@celestialridgetech.example,2025-05-16,2026-03-12,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0382,"Charlotte, NC",145000,2026-01-22,Remote
+EMP-0403,Grace,Lewis,grace.lewis403@celestialridgetech.example,2024-02-18,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0319,"Providence, RI",59000,2026-02-12,Remote
+EMP-0404,Elena,Foster,elena.foster404@celestialridgetech.example,2016-03-18,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0255,"Denver, CO",63000,2026-06-16,Hybrid
+EMP-0405,Drew,Mitchell,drew.mitchell405@celestialridgetech.example,2021-05-12,,Active,Full-Time,Product Manager,Product,PROD,EMP-0060,"Providence, RI",88000,2026-04-10,Remote
+EMP-0406,Avery,Nguyen,avery.nguyen406@celestialridgetech.example,2016-03-27,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0064,"Chicago, IL",133000,2026-01-08,Hybrid
+EMP-0407,Owen,Edwards,owen.edwards407@celestialridgetech.example,2021-09-21,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0190,"Providence, RI",122000,2026-08-02,Hybrid
+EMP-0408,Owen,Bennett,owen.bennett408@celestialridgetech.example,2022-09-24,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0067,"Chicago, IL",84000,2026-04-15,Remote
+EMP-0409,Cameron,Collins,cameron.collins409@celestialridgetech.example,2016-09-14,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0100,"Austin, TX",78000,2026-04-24,Remote
+EMP-0410,Avery,Foster,avery.foster410@celestialridgetech.example,2018-04-06,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0386,"Providence, RI",86000,2026-01-08,Hybrid
+EMP-0411,Nina,Young,nina.young411@celestialridgetech.example,2023-09-12,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,,"Austin, TX",109000,2026-07-01,Remote
+EMP-0412,Cameron,Brooks,cameron.brooks412@celestialridgetech.example,2018-01-20,2017-12-31,Terminated,Full-Time,Senior Product Manager,Product,PROD,EMP-0277,"Austin, TX",114000,2026-01-14,On-site
+EMP-0413,Henry,Brooks,henry.brooks413@celestialridgetech.example,2019-05-16,2019-08-26,Terminated,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0193,"Providence, RI",109000,2026-08-07,Hybrid
+EMP-0414,Casey,Flores,casey.flores414@celestialridgetech.example,2026-05-11,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0262,"Chicago, IL",96000,2026-07-24,Remote
+EMP-0415,Taylor,Garcia,taylor.garcia415@celestialridgetech.example,2022-03-07,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0370,"Charlotte, NC",102000,2026-08-06,Hybrid
+EMP-0416,Jamie,Evans,jamie.evans416@celestialridgetech.example,2021-06-10,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0145,"Austin, TX",63000,2026-08-19,On-site
+EMP-0417,Henry,Walker,henry.walker417@celestialridgetech.example,2021-06-25,,Active,Full-Time,Senior CSM,Customer Success,CS,,"Austin, TX",96000,2026-06-17,Remote
+EMP-0418,Quinn,Garcia,quinn.garcia418@celestialridgetech.example,2017-06-29,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0348,"Providence, RI",110000,2026-01-05,On-site
+EMP-0419,Riley,Evans,riley.evans419@celestialridgetech.example,2019-07-21,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0072,"Providence, RI",80000,2026-02-27,On-site
+EMP-0420,Cameron,Owens,cameron.owens420@celestialridgetech.example,2025-08-10,2025-12-02,Terminated,Full-Time,HR Manager,Human Resources,HR,EMP-0085,"Providence, RI",75000,2026-08-17,Hybrid
+EMP-0421,Jamie,Diaz,jamie.diaz421@celestialridgetech.example,2025-07-26,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0370,"Chicago, IL",120000,2026-08-10,On-site
+EMP-0422,Dakota,Garcia,dakota.garcia422@celestialridgetech.example,2016-07-09,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0407,"Denver, CO",78000,2026-03-09,Remote
+EMP-0423,Owen,James,owen.james423@celestialridgetech.example,2016-12-18,2020-07-17,Terminated,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0106,"Boston, MA",55000,2026-08-23,Hybrid
+EMP-0424,Taylor,Evans,taylor.evans424@celestialridgetech.example,2024-03-29,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0287,"Boston, MA",72000,2026-02-20,Remote
+EMP-0425,Jack,Turner,jack.turner425@celestialridgetech.example,2024-04-22,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0167,"Boston, MA",62000,2026-05-21,Remote
+EMP-0426,Lucas,Morris,lucas.morris426@celestialridgetech.example,2022-07-30,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0214,"Chicago, IL",90000,2026-05-27,Remote
+EMP-0427,Riley,Anderson,riley.anderson427@celestialridgetech.example,2025-07-13,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0196,"Charlotte, NC",91000,2026-08-28,Remote
+EMP-0428,Morgan,Sullivan,morgan.sullivan428@celestialridgetech.example,2025-02-22,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0261,"Charlotte, NC",108000,2026-08-18,Remote
+EMP-0429,Owen,Reed,owen.reed429@celestialridgetech.example,2024-02-14,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0248,"Chicago, IL",66000,2026-02-26,Remote
+EMP-0430,Leah,Collins,leah.collins430@celestialridgetech.example,2025-12-04,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0210,"Chicago, IL",103000,2026-03-15,Hybrid
+EMP-0431,Avery,Johnson,avery.johnson431@celestialridgetech.example,2019-04-21,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0296,"Denver, CO",77000,2026-07-31,Hybrid
+EMP-0432,Mia,Nguyen,mia.nguyen432@celestialridgetech.example,2016-09-05,2017-03-22,Terminated,Part-Time,Legal Operations Manager,Legal,LEGAL,EMP-0350,"Austin, TX",66000,2026-07-06,Remote
+EMP-0433,Zoe,Evans,zoe.evans433@celestialridgetech.example,2019-10-21,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0364,"Chicago, IL",97000,2026-08-09,Remote
+EMP-0434,Miles,Nguyen,miles.nguyen434@celestialridgetech.example,2018-04-24,2022-01-03,Terminated,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0054,"Boston, MA",110000,2026-04-02,Remote
+EMP-0435,Mia,Evans,mia.evans435@celestialridgetech.example,2024-12-03,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0226,"Chicago, IL",95000,2026-07-04,On-site
+EMP-0436,Nina,Morris,nina.morris436@celestialridgetech.example,2020-03-31,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0349,"Boston, MA",123000,2026-04-30,Hybrid
+EMP-0437,Maya,Evans,maya.evans437@celestialridgetech.example,2023-10-08,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0344,"Austin, TX",61000,2026-08-25,Hybrid
+EMP-0438,Theo,Turner,theo.turner438@celestialridgetech.example,2017-10-02,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0169,"Boston, MA",95000,2026-03-25,Hybrid
+EMP-0439,Quinn,Johnson,quinn.johnson439@celestialridgetech.example,2023-04-11,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0415,"Providence, RI",66000,2026-01-20,On-site
+EMP-0440,Chloe,Johnson,chloe.johnson440@celestialridgetech.example,2020-07-11,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0340,"Austin, TX",148000,2026-05-25,On-site
+EMP-0441,Quinn,Johnson,quinn.johnson441@celestialridgetech.example,2016-07-12,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0411,"Charlotte, NC",112000,2026-01-21,On-site
+EMP-0442,Casey,Anderson,casey.anderson442@celestialridgetech.example,2025-09-12,2025-11-18,Terminated,Full-Time,Financial Analyst,Finance,FIN,EMP-0152,"Chicago, IL",102000,2026-03-27,Hybrid
+EMP-0443,Jordan,James,jordan.james443@celestialridgetech.example,2023-06-21,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0156,"Boston, MA",115000,2026-01-12,Remote
+EMP-0444,Sofia,Foster,sofia.foster444@celestialridgetech.example,2020-10-17,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0327,"Boston, MA",126000,2026-06-24,Hybrid
+EMP-0445,Dakota,Kelly,dakota.kelly445@celestialridgetech.example,2021-10-30,,Active,Full-Time,Product Manager,Product,PROD,EMP-0351,"Austin, TX",91000,2026-07-25,Remote
+EMP-0446,Quinn,Edwards,quinn.edwards446@celestialridgetech.example,2016-02-25,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0376,"Austin, TX",55000,2026-01-28,Hybrid
+EMP-0447,Chloe,Green,chloe.green447@celestialridgetech.example,2017-11-27,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0338,"Charlotte, NC",56000,2026-05-03,Hybrid
+EMP-0448,Emerson,Howard,emerson.howard448@celestialridgetech.example,2017-08-28,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0407,"Austin, TX",103000,2026-07-17,Remote
+EMP-0449,Reese,Nguyen,reese.nguyen449@celestialridgetech.example,2017-07-28,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0444,"Providence, RI",114000,2026-01-08,Remote
+EMP-0450,Jack,Carter,jack.carter450@celestialridgetech.example,2022-04-15,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0344,"Charlotte, NC",97000,2026-07-18,On-site
+EMP-0451,Lucas,Foster,lucas.foster451@celestialridgetech.example,2023-03-01,,Active,Full-Time,Marketing Manager,Marketing,MKTG,,"Charlotte, NC",84000,2026-04-14,Remote
+EMP-0452,Mia,Edwards,mia.edwards452@celestialridgetech.example,2016-01-10,2021-09-20,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0253,"Charlotte, NC",106000,2026-03-15,Hybrid
+EMP-0453,Alex,Patel,alex.patel453@celestialridgetech.example,2024-10-27,2026-08-25,Terminated,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0284,"Boston, MA",66000,2026-01-19,On-site
+EMP-0454,Ava,James,ava.james454@celestialridgetech.example,2022-12-31,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0395,"Denver, CO",70000,2026-02-10,Remote
+EMP-0455,Miles,Bennett,miles.bennett455@celestialridgetech.example,2020-02-11,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0069,"Denver, CO",87000,2026-01-08,Hybrid
+EMP-0456,Mia,Mitchell,mia.mitchell456@celestialridgetech.example,2025-03-25,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0346,"Austin, TX",143000,2026-03-17,Hybrid
+EMP-0457,Ethan,Foster,ethan.foster457@celestialridgetech.example,2017-01-28,2019-09-12,Terminated,Full-Time,Operations Specialist,Operations,OPS,EMP-0395,"Denver, CO",74000,2026-08-03,Hybrid
+EMP-0458,Avery,Garcia,avery.garcia458@celestialridgetech.example,2022-06-21,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0256,"Charlotte, NC",73000,2026-02-10,Remote
+EMP-0459,Jamie,Young,jamie.young459@celestialridgetech.example,2016-07-20,2017-12-15,Terminated,Full-Time,Senior CSM,Customer Success,CS,EMP-0307,"Austin, TX",86000,2026-06-03,Hybrid
+EMP-0460,Mia,Patel,mia.patel460@celestialridgetech.example,2017-12-01,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0034,"Boston, MA",109000,2026-08-11,Hybrid
+EMP-0461,Theo,Kim,theo.kim461@celestialridgetech.example,2017-11-22,,Active,Part-Time,Engineering Manager,Engineering,ENG,EMP-0265,"Denver, CO",118000,2026-03-10,Remote
+EMP-0462,Ethan,Hayes,ethan.hayes462@celestialridgetech.example,2026-06-18,,Active,Part-Time,Sales Manager,Sales,SALES,EMP-0181,"Boston, MA",70000,2026-05-14,Hybrid
+EMP-0463,Lucas,Morris,lucas.morris463@celestialridgetech.example,2026-01-30,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0246,"Chicago, IL",54000,2026-07-31,Remote
+EMP-0464,Dakota,Kim,dakota.kim464@celestialridgetech.example,2023-03-25,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0366,"Boston, MA",113000,2026-01-07,On-site
+EMP-0465,Reese,Edwards,reese.edwards465@celestialridgetech.example,2019-10-07,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0429,"Denver, CO",67000,2026-01-27,Hybrid
+EMP-0466,Owen,Irwin,owen.irwin466@celestialridgetech.example,2023-02-19,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0129,"Charlotte, NC",99000,2026-01-11,Hybrid
+EMP-0467,Reese,Garcia,reese.garcia467@celestialridgetech.example,2018-04-11,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,,"Charlotte, NC",119000,2026-06-15,Hybrid
+EMP-0468,Ava,Diaz,ava.diaz468@celestialridgetech.example,2017-06-11,2022-04-23,Terminated,Full-Time,Operations Manager,Operations,OPS,EMP-0395,"Charlotte, NC",50000,2026-02-09,On-site
+EMP-0469,Taylor,Evans,taylor.evans469@celestialridgetech.example,2025-03-16,2026-05-09,Terminated,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0296,"Boston, MA",84000,2026-04-14,On-site
+EMP-0470,Mia,Morris,mia.morris470@celestialridgetech.example,2020-07-18,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0234,"Boston, MA",86000,2026-08-18,On-site
+EMP-0471,Logan,Hayes,logan.hayes471@celestialridgetech.example,2026-01-08,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0190,"Austin, TX",125000,2026-04-06,Hybrid
+EMP-0472,Henry,Kim,henry.kim472@celestialridgetech.example,2022-12-21,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0363,"Charlotte, NC",114000,2026-03-06,Hybrid
+EMP-0473,Morgan,Young,morgan.young473@celestialridgetech.example,2022-05-04,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0248,"Boston, MA",69000,2026-02-02,Hybrid
+EMP-0474,Morgan,James,morgan.james474@celestialridgetech.example,2017-02-02,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0106,"Austin, TX",108000,2026-07-09,Remote
+EMP-0475,Lucas,Kim,lucas.kim475@celestialridgetech.example,2022-06-10,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0106,"Boston, MA",60000,2026-05-21,Remote
+EMP-0476,Avery,Bennett,avery.bennett476@celestialridgetech.example,2016-07-10,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0293,"Providence, RI",117000,2026-02-03,Remote
+EMP-0477,Parker,Morris,parker.morris477@celestialridgetech.example,2025-04-17,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0472,"Austin, TX",113000,2026-01-17,Remote
+EMP-0478,Jack,Bennett,jack.bennett478@celestialridgetech.example,2022-05-15,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-9999,"Charlotte, NC",111000,2026-01-31,Remote
+EMP-0479,Blake,Irwin,blake.irwin479@celestialridgetech.example,2025-11-14,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0199,"Charlotte, NC",100000,2026-02-06,Remote
+EMP-0480,Cameron,Diaz,cameron.diaz480@celestialridgetech.example,2024-01-09,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0280,"Denver, CO",56000,2026-04-11,On-site
+EMP-0481,Sofia,Garcia,sofia.garcia481@celestialridgetech.example,2022-06-14,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0060,"Denver, CO",122000,2026-08-23,Hybrid
+EMP-0482,Sofia,Irwin,sofia.irwin482@celestialridgetech.example,2021-11-06,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0267,"Austin, TX",142000,2026-01-18,Hybrid
+EMP-0483,Chloe,Nguyen,chloe.nguyen483@celestialridgetech.example,2019-11-16,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0159,"Austin, TX",75000,2026-03-25,Remote
+EMP-0484,Alex,Irwin,alex.irwin484@celestialridgetech.example,2025-07-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0482,"Charlotte, NC",127000,2026-01-01,Remote
+EMP-0485,Avery,Howard,avery.howard485@celestialridgetech.example,2023-07-28,,Active,Part-Time,Sales Operations Analyst,Sales,SALES,EMP-0150,"Boston, MA",93000,2026-02-18,Remote
+EMP-0486,Reese,Flores,reese.flores486@celestialridgetech.example,2024-09-06,,Active,Part-Time,HR Manager,Human Resources,HR,EMP-0268,"Charlotte, NC",82000,2026-06-11,Hybrid
+EMP-0487,Henry,Bennett,henry.bennett487@celestialridgetech.example,2016-12-01,2019-09-12,Terminated,Full-Time,Product Manager,Product,PROD,EMP-0371,"Boston, MA",137000,2026-02-13,Remote
+EMP-0488,Riley,Turner,riley.turner488@celestialridgetech.example,2018-09-05,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0467,"Boston, MA",80000,2026-08-05,Remote
+EMP-0489,Parker,Bennett,parker.bennett489@celestialridgetech.example,2023-10-23,2025-12-11,Terminated,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0409,"Chicago, IL",135000,2026-04-11,Remote
+EMP-0490,Noah,Johnson,noah.johnson490@celestialridgetech.example,2017-08-28,,Active,Part-Time,Customer Success Manager,Customer Success,CS,EMP-0025,"Providence, RI",61000,2026-02-04,Remote
+EMP-0491,Cameron,Anderson,cameron.anderson491@celestialridgetech.example,2026-04-17,,Active,Part-Time,Operations Specialist,Operations,OPS,EMP-0395,"Austin, TX",65000,2026-01-31,Remote
+EMP-0492,Emerson,Flores,emerson.flores492@celestialridgetech.example,2026-05-02,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0002,"Providence, RI",116000,2026-06-15,Remote
+EMP-0493,Jamie,Lewis,jamie.lewis493@celestialridgetech.example,2023-11-14,2024-06-26,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0347,"Chicago, IL",142000,2026-06-02,Hybrid
+EMP-0494,Drew,Young,drew.young494@celestialridgetech.example,2020-05-22,2026-07-15,Terminated,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0292,"Boston, MA",91000,2026-05-02,Remote
+EMP-0495,Elena,Diaz,elena.diaz495@celestialridgetech.example,2018-07-04,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0142,"Chicago, IL",95000,2026-02-06,Hybrid
+EMP-0496,Theo,Owens,theo.owens496@celestialridgetech.example,2021-04-10,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0218,"Providence, RI",75000,2026-06-09,Hybrid
+EMP-0497,Noah,Bennett,noah.bennett497@celestialridgetech.example,2017-04-19,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0024,"Austin, TX",85000,2026-06-24,Remote
+EMP-0498,Logan,Garcia,logan.garcia498@celestialridgetech.example,2018-10-12,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0397,"Austin, TX",58000,2026-04-20,Remote
+EMP-0499,Casey,Nguyen,casey.nguyen499@celestialridgetech.example,2025-10-28,2025-12-21,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0092,"Charlotte, NC",91000,2026-03-19,Remote
+EMP-0500,Rowan,Evans,rowan.evans500@celestialridgetech.example,2016-08-08,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0414,"Chicago, IL",148000,2026-06-07,Hybrid
+EMP-0501,Jamie,Carter,jamie.carter501@celestialridgetech.example,2023-08-04,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0354,"Charlotte, NC",93000,2026-07-04,Hybrid
+EMP-0502,Ava,Young,ava.young502@celestialridgetech.example,2022-08-10,2025-07-06,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0253,"Chicago, IL",101000,2026-05-30,Remote
+EMP-0503,Nina,Foster,nina.foster503@celestialridgetech.example,2025-06-21,2025-12-07,Terminated,Full-Time,Senior Product Manager,Product,PROD,EMP-0060,"Denver, CO",77000,2026-05-23,Hybrid
+EMP-0504,Theo,Mitchell,theo.mitchell504@celestialridgetech.example,2019-09-03,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0281,"Charlotte, NC",100000,2026-05-10,Hybrid
+EMP-0505,Theo,Turner,theo.turner505@celestialridgetech.example,2021-05-30,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0495,"Providence, RI",104000,2026-04-14,Remote
+EMP-0506,Rowan,Evans,rowan.evans506@celestialridgetech.example,2017-11-02,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0328,"Boston, MA",85000,2026-05-22,On-site
+EMP-0507,Ava,Edwards,ava.edwards507@celestialridgetech.example,2023-10-18,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0354,"Chicago, IL",141000,2026-02-17,On-site
+EMP-0508,Mia,Mitchell,mia.mitchell508@celestialridgetech.example,2017-02-26,2026-03-22,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0004,"Providence, RI",103000,2026-05-11,Remote
+EMP-0509,Zoe,Bennett,zoe.bennett509@celestialridgetech.example,2018-06-03,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0309,"Providence, RI",140000,2026-08-14,Hybrid
+EMP-0510,Henry,Bennett,henry.bennett510@celestialridgetech.example,2018-01-30,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0130,"Charlotte, NC",70000,2026-07-28,Hybrid
+EMP-0511,Zoe,Lewis,zoe.lewis511@celestialridgetech.example,2022-04-10,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0455,"Boston, MA",110000,2026-07-31,Hybrid
+EMP-0512,Logan,Garcia,logan.garcia512@celestialridgetech.example,2018-12-10,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0403,"Charlotte, NC",72000,2026-03-16,Remote
+EMP-0513,Noah,Kim,noah.kim513@celestialridgetech.example,2025-08-03,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0419,"Boston, MA",87000,2026-03-30,Hybrid
+EMP-0514,Liam,James,liam.james514@celestialridgetech.example,2023-06-18,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0188,"Charlotte, NC",102000,2026-03-09,Remote
+EMP-0515,Blake,Flores,blake.flores515@celestialridgetech.example,2020-08-17,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0139,"Providence, RI",103000,2026-07-28,Remote
+EMP-0516,Nina,Edwards,nina.edwards516@celestialridgetech.example,2023-01-12,,Active,Part-Time,IT Manager,Information Technology,IT,EMP-0167,"Charlotte, NC",119000,2026-06-03,Remote
+EMP-0517,Casey,Walker,casey.walker517@celestialridgetech.example,2026-01-22,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0324,"Denver, CO",88000,2026-01-19,On-site
+EMP-0518,Henry,Lewis,henry.lewis518@celestialridgetech.example,2019-05-23,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0147,"Boston, MA",114000,2026-01-07,Remote
+EMP-0519,Taylor,Flores,taylor.flores519@celestialridgetech.example,2026-05-01,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0472,"Austin, TX",67000,2026-01-25,Hybrid
+EMP-0520,Logan,Walker,logan.walker520@celestialridgetech.example,2022-02-10,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0013,"Providence, RI",120000,2026-06-02,Remote
+EMP-0521,Theo,Bennett,theo.bennett521@celestialridgetech.example,2018-01-24,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0184,"Denver, CO",87000,2026-04-18,Remote
+EMP-0522,Blake,Foster,blake.foster522@celestialridgetech.example,2020-05-21,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0082,"Chicago, IL",80000,2026-01-21,Hybrid
+EMP-0523,Nina,Young,nina.young523@celestialridgetech.example,2026-01-03,2026-05-15,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0177,"Austin, TX",103000,2026-03-27,Hybrid
+EMP-0524,Miles,Bennett,miles.bennett524@celestialridgetech.example,2023-12-27,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0424,"Charlotte, NC",74000,2026-08-04,Hybrid
+EMP-0525,Rowan,Nguyen,rowan.nguyen525@celestialridgetech.example,2018-03-30,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0338,"Austin, TX",112000,2026-04-12,Remote
+EMP-0526,Hayden,Carter,hayden.carter526@celestialridgetech.example,2022-11-23,2023-03-15,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0145,"Chicago, IL",132000,2026-06-02,Remote
+EMP-0527,Mia,Diaz,mia.diaz527@celestialridgetech.example,2024-07-28,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0173,"Denver, CO",101000,2026-07-06,Hybrid
+EMP-0528,Quinn,James,quinn.james528@celestialridgetech.example,2016-07-10,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0155,"Charlotte, NC",111000,2026-04-25,Hybrid
+EMP-0529,Mia,Anderson,mia.anderson529@celestialridgetech.example,2022-11-30,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0507,"Denver, CO",91000,2026-05-30,Hybrid
+EMP-0530,Jordan,Young,jordan.young530@celestialridgetech.example,2020-08-19,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0512,"Providence, RI",122000,2026-02-12,Remote
+EMP-0531,Jack,Flores,jack.flores531@celestialridgetech.example,2022-01-19,2023-07-14,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0167,"Denver, CO",79000,2026-05-14,On-site
+EMP-0532,Reese,Green,reese.green532@celestialridgetech.example,2020-11-03,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0401,"Providence, RI",53000,2026-05-20,Remote
+EMP-0533,Quinn,Collins,quinn.collins533@celestialridgetech.example,2024-12-09,2025-06-13,Terminated,Full-Time,HR Coordinator,Human Resources,HR,,"Denver, CO",95000,2026-08-23,Remote
+EMP-0534,Hayden,Garcia,hayden.garcia534@celestialridgetech.example,2019-12-10,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0355,"Austin, TX",114000,2026-01-08,Hybrid
+EMP-0535,Drew,Young,drew.young535@celestialridgetech.example,2022-07-02,,Active,Part-Time,Marketing Specialist,Marketing,MKTG,EMP-0475,"Charlotte, NC",91000,2026-04-15,Remote
+EMP-0536,Theo,Irwin,theo.irwin536@celestialridgetech.example,2020-11-08,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0272,"Austin, TX",110000,2026-03-21,Hybrid
+EMP-0537,Theo,Flores,theo.flores537@celestialridgetech.example,2016-01-08,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0527,"Charlotte, NC",52000,2026-07-28,On-site
+EMP-0538,Grace,Bennett,grace.bennett538@celestialridgetech.example,2020-02-19,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0206,"Providence, RI",111000,2026-05-19,Remote
+EMP-0539,Drew,Carter,drew.carter539@celestialridgetech.example,2021-05-13,2024-08-26,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0500,"Providence, RI",122000,2026-02-20,Hybrid
+EMP-0540,Jack,Johnson,jack.johnson540@celestialridgetech.example,2017-07-13,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Boston, MA",118000,2026-05-02,Remote
+EMP-0541,Nina,Evans,nina.evans541@celestialridgetech.example,2024-09-23,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0110,"Chicago, IL",155000,2026-03-17,Remote
+EMP-0542,Ava,Kelly,ava.kelly542@celestialridgetech.example,2025-11-20,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0318,"Boston, MA",129000,2026-03-09,Remote
+EMP-0543,Cameron,Carter,cameron.carter543@celestialridgetech.example,2020-06-05,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0102,"Austin, TX",54000,2026-05-29,Remote
+EMP-0544,Blake,Young,blake.young544@celestialridgetech.example,2018-02-26,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0470,"Boston, MA",110000,2026-01-16,Remote
+EMP-0545,Miles,Collins,miles.collins545@celestialridgetech.example,2018-06-19,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0215,"Providence, RI",116000,2026-01-07,Hybrid
+EMP-0546,Jamie,Garcia,jamie.garcia546@celestialridgetech.example,2025-03-13,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0490,"Chicago, IL",69000,2026-02-09,Remote
+EMP-0547,Theo,Walker,theo.walker547@celestialridgetech.example,2018-01-29,,Active,Full-Time,Product Manager,Product,PROD,EMP-0065,"Charlotte, NC",83000,2026-03-15,Hybrid
+EMP-0548,Zoe,Flores,zoe.flores548@celestialridgetech.example,2025-01-29,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0296,"Denver, CO",79000,2026-07-22,Remote
+EMP-0549,Jack,Lewis,jack.lewis549@celestialridgetech.example,2020-03-17,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0483,"Chicago, IL",86000,2026-03-26,Remote
+EMP-0550,Blake,Walker,blake.walker550@celestialridgetech.example,2024-10-22,,Active,Full-Time,Product Manager,Product,PROD,EMP-0542,"Providence, RI",135000,2026-06-22,Hybrid
+EMP-0551,Riley,Hayes,riley.hayes551@celestialridgetech.example,2020-08-21,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0071,"Providence, RI",77000,2026-08-13,Hybrid
+EMP-0552,Jamie,Anderson,jamie.anderson552@celestialridgetech.example,2024-09-01,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0057,"Providence, RI",66000,2026-07-29,Hybrid
+EMP-0553,Dakota,Walker,dakota.walker553@celestialridgetech.example,2021-03-07,2026-08-04,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0062,"Boston, MA",98000,2026-06-17,On-site
+EMP-0554,Mia,Sullivan,mia.sullivan554@celestialridgetech.example,2021-10-04,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0370,"Denver, CO",114000,2026-04-21,Remote
+EMP-0555,Noah,Howard,noah.howard555@celestialridgetech.example,2020-11-24,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0445,"Chicago, IL",98000,2026-04-16,Hybrid
+EMP-0556,Morgan,Nguyen,morgan.nguyen556@celestialridgetech.example,2021-09-05,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0007,"Boston, MA",110000,2026-08-21,Remote
+EMP-0557,Miles,Morris,miles.morris557@celestialridgetech.example,2018-01-21,2018-10-24,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0257,"Denver, CO",75000,2026-03-11,Hybrid
+EMP-0558,Leah,Reed,leah.reed558@celestialridgetech.example,2016-10-10,,Active,Full-Time,HR Manager,Human Resources,HR,,"Denver, CO",106000,2026-01-27,Remote
+EMP-0559,Ethan,Green,ethan.green559@celestialridgetech.example,2022-10-26,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0064,"Boston, MA",84000,2026-06-05,Hybrid
+EMP-0560,Casey,Reed,casey.reed560@celestialridgetech.example,2025-01-29,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0462,"Austin, TX",134000,2026-06-19,Remote
+EMP-0561,Owen,Sullivan,owen.sullivan561@celestialridgetech.example,2016-05-16,,Active,Part-Time,Product Manager,Product,PROD,EMP-0555,"Providence, RI",144000,2026-01-10,Hybrid
+EMP-0562,Blake,Irwin,blake.irwin562@celestialridgetech.example,2020-10-09,,Active,Part-Time,HR Specialist,Human Resources,HR,,"Chicago, IL",79000,2026-03-27,Remote
+EMP-0563,Quinn,Hayes,quinn.hayes563@celestialridgetech.example,2017-01-25,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0328,"Austin, TX",110000,2026-05-02,Hybrid
+EMP-0564,Dakota,Lewis,dakota.lewis564@celestialridgetech.example,2017-11-14,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0536,"Austin, TX",122000,2026-01-06,Hybrid
+EMP-0565,Ethan,Carter,ethan.carter565@celestialridgetech.example,2024-05-10,2025-10-29,Terminated,Part-Time,Senior Software Engineer,Engineering,ENG,EMP-0352,"Austin, TX",147000,2026-05-01,On-site
+EMP-0566,Jordan,Brooks,jordan.brooks566@celestialridgetech.example,2017-04-03,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0415,"Providence, RI",107000,2026-08-11,Hybrid
+EMP-0567,Dakota,Collins,dakota.collins567@celestialridgetech.example,2025-12-29,,Active,Part-Time,Operations Analyst,Operations,OPS,EMP-0320,"Providence, RI",83000,2026-07-24,Remote
+EMP-0568,Henry,Garcia,henry.garcia568@celestialridgetech.example,2026-03-07,,Active,Part-Time,Financial Analyst,Finance,FIN,EMP-0470,"Austin, TX",115000,2026-05-27,Hybrid
+EMP-0569,Casey,Carter,casey.carter569@celestialridgetech.example,2019-05-12,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0157,"Austin, TX",82000,2026-07-18,Hybrid
+EMP-0570,Reese,Sullivan,reese.sullivan570@celestialridgetech.example,2025-03-03,,Active,Full-Time,Product Manager,Product,PROD,EMP-0542,"Denver, CO",106000,2026-06-28,Hybrid
+EMP-0571,Henry,Collins,henry.collins571@celestialridgetech.example,2022-06-30,,Active,Part-Time,Customer Success Manager,Customer Success,CS,EMP-0543,"Austin, TX",61000,2026-05-01,Hybrid
+EMP-0572,Skyler,Garcia,skyler.garcia572@celestialridgetech.example,2024-03-01,2025-09-07,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0180,"Chicago, IL",111000,2026-04-17,Remote
+EMP-0573,Chloe,Sullivan,chloe.sullivan573@celestialridgetech.example,2017-12-30,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0132,"Providence, RI",129000,2026-05-17,Hybrid
+EMP-0574,Casey,Green,casey.green574@celestialridgetech.example,2016-11-19,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0292,"Charlotte, NC",66000,2026-05-31,Remote
+EMP-0575,Lucas,Evans,lucas.evans575@celestialridgetech.example,2016-07-17,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0521,"Boston, MA",138000,2026-02-03,Remote
+EMP-0576,Jamie,Green,jamie.green576@celestialridgetech.example,2025-09-10,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0241,"Chicago, IL",129000,2026-05-28,Hybrid
+EMP-0577,Leah,Edwards,leah.edwards577@celestialridgetech.example,2016-03-11,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0390,"Denver, CO",109000,2026-04-18,Hybrid
+EMP-0578,Skyler,Young,skyler.young578@celestialridgetech.example,2023-09-05,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0401,"Boston, MA",111000,2026-05-15,Remote
+EMP-0579,Jamie,Morris,jamie.morris579@celestialridgetech.example,2020-01-30,,Active,Part-Time,Analytics Manager,Data & Analytics,DATA,EMP-0202,"Austin, TX",99000,2026-01-22,Remote
+EMP-0580,Ava,Nguyen,ava.nguyen580@celestialridgetech.example,2025-02-02,2025-07-03,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0220,"Denver, CO",84000,2026-03-11,Hybrid
+EMP-0581,Liam,Garcia,liam.garcia581@celestialridgetech.example,2017-05-03,2026-06-12,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0056,"Denver, CO",93000,2026-04-24,Remote
+EMP-0582,Casey,Kim,casey.kim582@celestialridgetech.example,2019-07-04,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0343,"Austin, TX",116000,2026-03-27,Hybrid
+EMP-0583,Ethan,Collins,ethan.collins583@celestialridgetech.example,2016-05-02,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0415,"Denver, CO",129000,2026-05-25,Hybrid
+EMP-0584,Grace,Foster,grace.foster584@celestialridgetech.example,2018-07-30,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0527,"Boston, MA",101000,2026-03-23,Remote
+EMP-0585,Riley,Lewis,riley.lewis585@celestialridgetech.example,2018-12-05,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0060,"Providence, RI",127000,2026-01-26,Remote
+EMP-0586,Noah,Garcia,noah.garcia586@celestialridgetech.example,2022-08-10,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0490,"Austin, TX",115000,2026-08-18,On-site
+EMP-0587,Chloe,Howard,chloe.howard587@celestialridgetech.example,2025-04-20,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0160,"Boston, MA",110000,2026-08-22,Remote
+EMP-0588,Logan,Carter,logan.carter588@celestialridgetech.example,2021-02-24,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0480,"Chicago, IL",100000,2026-04-07,Hybrid
+EMP-0589,Grace,Johnson,grace.johnson589@celestialridgetech.example,2016-12-21,,Active,Full-Time,IT Manager,Information Technology,IT,,"Chicago, IL",69000,2026-05-13,Remote
+EMP-0590,Grace,Morris,grace.morris590@celestialridgetech.example,2022-03-22,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0470,"Charlotte, NC",116000,2026-05-16,Hybrid
+EMP-0591,Rowan,Mitchell,rowan.mitchell591@celestialridgetech.example,2024-09-25,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0472,"Chicago, IL",74000,2026-07-15,Remote
+EMP-0592,Casey,Anderson,casey.anderson592@celestialridgetech.example,2018-05-24,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0137,"Charlotte, NC",99000,2026-08-29,On-site
+EMP-0593,Maya,Mitchell,maya.mitchell593@celestialridgetech.example,2022-12-07,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0112,"Boston, MA",132000,2026-07-29,Remote
+EMP-0594,Quinn,Patel,quinn.patel594@celestialridgetech.example,2019-01-24,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0537,"Chicago, IL",100000,2026-07-08,Hybrid
+EMP-0595,Quinn,Irwin,quinn.irwin595@celestialridgetech.example,2018-04-06,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0394,"Providence, RI",145000,2026-01-28,On-site
+EMP-0596,Liam,Mitchell,liam.mitchell596@celestialridgetech.example,2021-10-12,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0411,"Charlotte, NC",91000,2026-08-07,Hybrid
+EMP-0597,Nina,Hayes,nina.hayes597@celestialridgetech.example,2024-03-30,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0521,"Boston, MA",135000,2026-07-09,Remote
+EMP-0598,Theo,Anderson,theo.anderson598@celestialridgetech.example,2025-01-30,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0546,"Denver, CO",70000,2026-07-11,Remote
+EMP-0599,Jordan,Nguyen,jordan.nguyen599@celestialridgetech.example,2023-05-25,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0377,"Chicago, IL",128000,2026-08-05,On-site
+EMP-0600,Jamie,Brooks,jamie.brooks600@celestialridgetech.example,2025-04-09,2025-05-15,Terminated,Full-Time,Operations Specialist,Operations,OPS,EMP-0491,"Austin, TX",57000,2026-06-20,Remote
+EMP-0601,Reese,Garcia,reese.garcia601@celestialridgetech.example,2023-04-09,,Active,Full-Time,Product Manager,Product,PROD,EMP-0019,"Denver, CO",122000,2026-07-07,Hybrid
+EMP-0602,Mia,Brooks,mia.brooks602@celestialridgetech.example,2022-10-30,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0398,"Austin, TX",148000,2026-03-20,Hybrid
+EMP-0603,Grace,Walker,grace.walker603@celestialridgetech.example,2026-01-23,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0046,"Providence, RI",62000,2026-02-23,Hybrid
+EMP-0604,Ava,Howard,ava.howard604@celestialridgetech.example,2019-03-06,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0461,"Chicago, IL",93000,2026-07-04,Remote
+EMP-0605,Lucas,Carter,lucas.carter605northstarsolutions.example,2020-12-27,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0160,"Austin, TX",78000,2026-03-30,Hybrid
+EMP-0606,Emerson,Flores,emerson.flores606@celestialridgetech.example,2023-06-07,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0105,"Boston, MA",141000,2026-08-27,Remote
+EMP-0607,Caleb,Morris,caleb.morris607@celestialridgetech.example,2019-08-31,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0604,"Chicago, IL",125000,2026-03-28,Remote
+EMP-0608,Jamie,Edwards,jamie.edwards608@celestialridgetech.example,2019-08-15,2021-05-27,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0576,"Denver, CO",101000,2026-01-08,Hybrid
+EMP-0609,Riley,Irwin,riley.irwin609@celestialridgetech.example,2026-03-28,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0228,"Providence, RI",80000,2026-05-22,Hybrid
+EMP-0610,Noah,Edwards,noah.edwards610@celestialridgetech.example,2023-04-06,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0168,"Boston, MA",132000,2026-04-18,Remote
+EMP-0611,Henry,Evans,henry.evans611@celestialridgetech.example,2019-03-19,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0017,"Boston, MA",83000,2026-06-13,On-site
+EMP-0612,Logan,Evans,logan.evans612@celestialridgetech.example,2016-03-12,2019-04-05,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0257,"Charlotte, NC",52000,2026-06-24,Hybrid
+EMP-0613,Zoe,Collins,zoe.collins613@celestialridgetech.example,2019-08-21,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0544,"Boston, MA",77000,2026-05-30,Remote
+EMP-0614,Skyler,Reed,skyler.reed614@celestialridgetech.example,2020-12-11,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0077,"Austin, TX",109000,2026-07-24,Remote
+EMP-0615,Hayden,Foster,hayden.foster615@celestialridgetech.example,2017-03-18,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0470,"Boston, MA",81000,2026-03-05,Remote
+EMP-0616,Lucas,Sullivan,lucas.sullivan616@celestialridgetech.example,2017-10-09,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0479,"Denver, CO",92000,2026-02-08,Remote
+EMP-0617,Jamie,Reed,jamie.reed617@celestialridgetech.example,2026-02-26,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0102,"Charlotte, NC",61000,2026-03-03,Hybrid
+EMP-0618,Chloe,Anderson,chloe.anderson618@celestialridgetech.example,2025-04-21,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0480,"Boston, MA",101000,2026-02-07,Hybrid
+EMP-0619,Zoe,Walker,zoe.walker619@celestialridgetech.example,2023-03-25,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0366,"Denver, CO",145000,2026-04-22,Hybrid
+EMP-0620,Mia,Reed,mia.reed620@celestialridgetech.example,2026-03-06,,Active,Part-Time,Account Executive,Sales,SALES,EMP-0238,"Chicago, IL",93000,2026-05-24,Hybrid
+EMP-0621,Elena,Owens,elena.owens621@celestialridgetech.example,2026-02-16,,Active,Part-Time,Financial Analyst,Finance,FIN,EMP-0336,"Boston, MA",125000,2026-02-21,Hybrid
+EMP-0622,Dakota,Morris,dakota.morris622@celestialridgetech.example,2020-11-15,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0275,"Austin, TX",81000,2026-03-25,Hybrid
+EMP-0623,Theo,Flores,theo.flores623@celestialridgetech.example,2019-12-16,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0051,"Chicago, IL",142000,2026-01-09,Remote
+EMP-0624,Rowan,Anderson,rowan.anderson624@celestialridgetech.example,2019-07-06,,Active,Part-Time,Sales Manager,Sales,SALES,EMP-0136,"Austin, TX",95000,2026-01-10,Hybrid
+EMP-0625,Miles,Hayes,miles.hayes625@celestialridgetech.example,2021-08-19,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0407,"Denver, CO",128000,2026-08-13,Remote
+EMP-0626,Theo,Evans,theo.evans626@celestialridgetech.example,2023-04-19,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0222,"Boston, MA",86000,2026-02-13,On-site
+EMP-0627,Nina,Anderson,nina.anderson627@celestialridgetech.example,2022-12-29,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0329,"Chicago, IL",89000,2026-03-11,Remote
+EMP-0628,Maya,Kelly,maya.kelly628@celestialridgetech.example,2026-03-06,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0300,"Providence, RI",81000,2026-04-21,On-site
+EMP-0629,Leah,Diaz,leah.diaz629@celestialridgetech.example,2016-06-04,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0505,"Austin, TX",63000,2026-07-18,Hybrid
+EMP-0630,Miles,Diaz,miles.diaz630@celestialridgetech.example,2024-09-22,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0405,"Providence, RI",130000,2026-05-22,Hybrid
+EMP-0631,Lucas,Owens,lucas.owens631@celestialridgetech.example,2020-05-31,,Active,Part-Time,Legal Operations Specialist,Legal,LEGAL,,"Austin, TX",82000,2026-03-01,Hybrid
+EMP-0632,Morgan,Reed,morgan.reed632@celestialridgetech.example,2019-08-25,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0028,"Boston, MA",89000,2026-02-21,Hybrid
+EMP-0633,Logan,Howard,logan.howard633@celestialridgetech.example,2016-07-02,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0571,"Providence, RI",98000,2026-07-30,Hybrid
+EMP-0634,Maya,Lewis,maya.lewis634@celestialridgetech.example,2016-05-23,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0271,"Denver, CO",119000,2026-01-14,Hybrid
+EMP-0635,Avery,Sullivan,avery.sullivan635@celestialridgetech.example,2023-09-14,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0322,"Chicago, IL",55000,2026-05-27,Hybrid
+EMP-0636,Drew,Bennett,drew.bennett636@celestialridgetech.example,2016-11-04,2022-03-31,Terminated,Part-Time,Operations Manager,Operations,OPS,EMP-0404,"Chicago, IL",58000,2026-03-18,Remote
+EMP-0637,Quinn,Mitchell,quinn.mitchell637@celestialridgetech.example,2020-03-28,,Active,Full-Time,Account Executive,Sales,SALES,,"Denver, CO",60000,2026-03-02,Remote
+EMP-0638,Leah,Garcia,leah.garcia638@celestialridgetech.example,2019-04-30,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0507,"Boston, MA",105000,2026-03-22,On-site
+EMP-0639,Reese,Diaz,reese.diaz639@celestialridgetech.example,2017-07-27,2022-06-25,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0421,"Austin, TX",133000,2026-08-04,Hybrid
+EMP-0640,Grace,Irwin,grace.irwin640@celestialridgetech.example,2020-12-08,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0261,"Chicago, IL",97000,2026-04-11,Remote
+EMP-0641,Drew,Turner,drew.turner641@celestialridgetech.example,2026-01-17,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0482,"Charlotte, NC",109000,2026-03-03,Remote
+EMP-0642,Grace,Edwards,grace.edwards642@celestialridgetech.example,2018-07-25,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0443,"Boston, MA",102000,2026-03-11,Remote
+EMP-0643,Elena,Kim,elena.kim643@celestialridgetech.example,2018-03-17,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0291,"Chicago, IL",83000,2026-03-07,On-site
+EMP-0644,Casey,Carter,casey.carter644@celestialridgetech.example,2019-12-24,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0586,"Chicago, IL",92000,2026-07-14,On-site
+EMP-0645,Caleb,Reed,caleb.reed645@celestialridgetech.example,2025-02-12,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0410,"Charlotte, NC",110000,2026-06-13,Hybrid
+EMP-0646,Avery,Brooks,avery.brooks646@celestialridgetech.example,2017-07-22,2025-05-02,Terminated,Full-Time,Sales Manager,Sales,SALES,EMP-0141,"Austin, TX",88000,2026-08-18,Remote
+EMP-0647,Reese,Anderson,reese.anderson647@celestialridgetech.example,2020-05-07,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0083,"Charlotte, NC",130000,2026-03-15,Hybrid
+EMP-0648,Owen,Flores,owen.flores648@celestialridgetech.example,2022-01-04,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0371,"Denver, CO",137000,2026-06-04,Remote
+EMP-0649,Reese,Kim,reese.kim649@celestialridgetech.example,2018-05-10,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0316,"Boston, MA",67000,2026-06-11,Remote
+EMP-0650,Noah,Brooks,noah.brooks650@celestialridgetech.example,2023-12-10,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0050,"Austin, TX",62000,2026-02-21,Remote
+EMP-0651,Liam,Howard,liam.howard651@celestialridgetech.example,2019-01-20,2021-01-18,Terminated,Part-Time,HR Specialist,Human Resources,HR,EMP-0339,"Boston, MA",98000,2026-06-01,Remote
+EMP-0652,Caleb,Anderson,caleb.anderson652@celestialridgetech.example,2018-12-14,,Active,Part-Time,Customer Success Manager,Customer Success,CS,,"Chicago, IL",80000,2026-02-28,Hybrid
+EMP-0653,Hayden,Mitchell,hayden.mitchell653@celestialridgetech.example,2023-01-04,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0497,"Charlotte, NC",100000,2026-06-21,Remote
+EMP-0654,Leah,Garcia,leah.garcia654@celestialridgetech.example,2023-06-20,2023-08-06,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0090,"Chicago, IL",124000,2026-05-01,On-site
+EMP-0655,Leah,Bennett,leah.bennett655@celestialridgetech.example,2019-09-15,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0330,"Denver, CO",137000,2026-06-04,Hybrid
+EMP-0656,Caleb,Morris,caleb.morris656@celestialridgetech.example,2022-01-21,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0633,"Denver, CO",85000,2026-08-13,Remote
+EMP-0657,Jamie,James,jamie.james657@celestialridgetech.example,2021-07-22,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0331,"Austin, TX",135000,2026-06-19,Remote
+EMP-0658,Drew,Carter,drew.carter658@celestialridgetech.example,2016-07-07,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0146,"Boston, MA",135000,2026-02-03,Remote
+EMP-0659,Caleb,Evans,caleb.evans659@celestialridgetech.example,2019-10-05,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0354,"Denver, CO",136000,2026-07-20,Hybrid
+EMP-0660,Riley,Green,riley.green660@celestialridgetech.example,2021-01-19,2021-07-10,Terminated,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0278,"Providence, RI",57000,2026-07-18,Hybrid
+EMP-0661,Casey,Johnson,casey.johnson661@celestialridgetech.example,2016-01-25,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0587,"Providence, RI",54000,2026-05-29,Hybrid
+EMP-0662,Avery,Morris,avery.morris662@celestialridgetech.example,2018-10-16,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0070,"Boston, MA",121000,2026-05-11,Hybrid
+EMP-0663,Zoe,Evans,zoe.evans663@celestialridgetech.example,2021-07-01,2026-04-23,Terminated,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0241,"Denver, CO",70000,2026-04-24,Remote
+EMP-0664,Caleb,Mitchell,caleb.mitchell664@celestialridgetech.example,2020-09-05,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0032,"Boston, MA",100000,2026-04-05,Remote
+EMP-0665,Nina,Brooks,nina.brooks665@celestialridgetech.example,2025-05-01,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0425,"Providence, RI",91000,2026-01-31,On-site
+EMP-0666,Skyler,Brooks,skyler.brooks666@celestialridgetech.example,2017-06-23,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0641,"Austin, TX",119000,2026-02-27,On-site
+EMP-0667,Reese,Hayes,reese.hayes667@celestialridgetech.example,2016-03-07,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0343,"Providence, RI",65000,2026-04-19,Remote
+EMP-0668,Chloe,Green,chloe.green668@celestialridgetech.example,2018-05-14,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0629,"Providence, RI",111000,2026-07-17,Remote
+EMP-0669,Skyler,Collins,skyler.collins669@celestialridgetech.example,2019-05-18,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0004,"Chicago, IL",121000,2026-02-20,Hybrid
+EMP-0670,Nina,Johnson,nina.johnson670@celestialridgetech.example,2025-09-20,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0436,"Chicago, IL",134000,2026-04-22,Remote
+EMP-0671,Drew,Mitchell,drew.mitchell671@celestialridgetech.example,2019-07-31,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0339,"Providence, RI",112000,2026-03-04,Hybrid
+EMP-0672,Jamie,Patel,jamie.patel672@celestialridgetech.example,2024-01-30,2026-02-21,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0666,"Boston, MA",123000,2026-02-19,Hybrid
+EMP-0673,Maya,Walker,maya.walker673@celestialridgetech.example,2021-10-30,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0285,"Austin, TX",102000,2026-06-08,Remote
+EMP-0674,Morgan,Collins,morgan.collins674@celestialridgetech.example,2024-09-10,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0386,"Boston, MA",117000,2026-02-05,Remote
+EMP-0675,Dakota,Patel,dakota.patel675@celestialridgetech.example,2026-03-06,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0476,"Charlotte, NC",154000,2026-02-18,Remote
+EMP-0676,Rowan,Howard,rowan.howard676@celestialridgetech.example,2021-10-02,2024-08-25,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0538,"Denver, CO",126000,2026-08-24,Hybrid
+EMP-0677,Blake,Diaz,blake.diaz677@celestialridgetech.example,2018-09-10,2025-08-15,Terminated,Part-Time,Software Engineer,Engineering,ENG,EMP-0607,"Denver, CO",89000,2026-01-16,Hybrid
+EMP-0678,Elena,Reed,elena.reed678@celestialridgetech.example,2021-04-21,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0002,"Denver, CO",119000,2026-05-13,Remote
+EMP-0679,Jamie,Foster,jamie.foster679@celestialridgetech.example,2018-04-17,2023-10-01,Terminated,Full-Time,Operations Analyst,Operations,OPS,EMP-0587,"Providence, RI",56000,2026-06-13,Hybrid
+EMP-0680,Lucas,Irwin,lucas.irwin680@celestialridgetech.example,2018-06-25,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0645,"Providence, RI",75000,2026-05-11,On-site
+EMP-0681,Chloe,Turner,chloe.turner681@celestialridgetech.example,2019-07-02,,Active,Part-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0241,"Denver, CO",119000,2026-05-23,On-site
+EMP-0682,Riley,Owens,riley.owens682@celestialridgetech.example,2021-05-07,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0319,"Charlotte, NC",98000,2026-04-29,Remote
+EMP-0683,Grace,Foster,grace.foster683@celestialridgetech.example,2026-06-20,,Active,Part-Time,Software Engineer,Engineering,ENG,EMP-0657,"Boston, MA",135000,2026-02-28,Hybrid
+EMP-0684,Grace,Nguyen,grace.nguyen684@celestialridgetech.example,2018-03-10,2019-09-18,Terminated,Full-Time,Finance Manager,Finance,FIN,EMP-0611,"Austin, TX",122000,2026-03-12,Hybrid
+EMP-0685,Jamie,Bennett,jamie.bennett685@celestialridgetech.example,2017-05-04,2021-07-18,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0529,"Austin, TX",147000,2026-07-09,Remote
+EMP-0686,Zoe,Carter,zoe.carter686@celestialridgetech.example,2020-10-12,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0635,"Chicago, IL",87000,2026-07-31,Remote
+EMP-0687,Cameron,Foster,cameron.foster687@celestialridgetech.example,2019-05-25,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0291,"Austin, TX",65000,2026-04-06,Remote
+EMP-0688,Avery,Brooks,avery.brooks688@celestialridgetech.example,2023-12-08,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Denver, CO",153000,2026-03-08,Remote
+EMP-0689,Caleb,Owens,caleb.owens689@celestialridgetech.example,2016-06-26,2020-03-11,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0093,"Charlotte, NC",117000,2026-06-07,Hybrid
+EMP-0690,Caleb,Turner,caleb.turner690@celestialridgetech.example,2023-11-23,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0397,"Providence, RI",81000,2026-01-25,Remote
+EMP-0691,Hayden,Green,hayden.green691@celestialridgetech.example,2020-09-23,,Terminated,Full-Time,Account Executive,Sales,SALES,EMP-0145,"Austin, TX",75000,2026-05-01,Hybrid
+EMP-0692,Elena,Owens,elena.owens692@celestialridgetech.example,2019-09-04,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0033,"Austin, TX",78000,2026-06-06,Hybrid
+EMP-0693,Dakota,Foster,dakota.foster693@celestialridgetech.example,2026-01-13,,Active,Full-Time,Product Manager,Product,PROD,EMP-0547,"Boston, MA",91000,2026-02-04,Remote
+EMP-0694,Elena,Bennett,elena.bennett694@celestialridgetech.example,2018-09-29,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0039,"Denver, CO",97000,2026-01-02,Remote
+EMP-0695,Morgan,Flores,morgan.flores695@celestialridgetech.example,2019-04-05,,Active,Full-Time,Legal Operations Manager,Legal,LEGAL,EMP-0115,"Providence, RI",107000,2026-06-26,Remote
+EMP-0696,Chloe,Foster,chloe.foster696@celestialridgetech.example,2025-06-17,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0087,"Denver, CO",61000,2026-08-26,Remote
+EMP-0697,Hayden,Collins,hayden.collins697@celestialridgetech.example,2018-03-23,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0073,"Chicago, IL",86000,2026-07-22,Hybrid
+EMP-0698,Hayden,Hayes,hayden.hayes698@celestialridgetech.example,2016-04-12,2018-03-20,Terminated,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0276,"Denver, CO",112000,2026-02-09,Remote
+EMP-0699,Parker,Sullivan,parker.sullivan699@celestialridgetech.example,2025-01-23,,Active,Full-Time,Product Manager,Product,PROD,EMP-0456,"Austin, TX",134000,2026-03-08,Hybrid
+EMP-0700,Dakota,Carter,dakota.carter700@celestialridgetech.example,2022-11-07,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0005,"Boston, MA",66000,2026-01-05,On-site
+EMP-0701,Mia,Brooks,mia.brooks701@celestialridgetech.example,2017-12-10,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0209,"Denver, CO",67000,2026-02-13,Remote
+EMP-0702,Hayden,Nguyen,hayden.nguyen702@celestialridgetech.example,2016-06-25,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0590,"Austin, TX",66000,2026-01-30,Remote
+EMP-0703,Sofia,Mitchell,sofia.mitchell703@celestialridgetech.example,2024-08-14,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0561,"Denver, CO",139000,2026-07-23,Hybrid
+EMP-0704,Logan,Evans,logan.evans704@celestialridgetech.example,2018-07-01,,Active,Part-Time,Sales Manager,Sales,SALES,EMP-0444,"Boston, MA",83000,2026-07-28,Hybrid
+EMP-0705,Theo,Sullivan,theo.sullivan705@celestialridgetech.example,2017-02-16,,Active,Full-Time,Product Manager,Product,PROD,EMP-0428,"Charlotte, NC",88000,2026-08-29,On-site
+EMP-0706,Theo,Anderson,theo.anderson706@celestialridgetech.example,2023-10-20,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0447,"Charlotte, NC",87000,2026-05-24,Remote
+EMP-0707,Lucas,Collins,lucas.collins707@celestialridgetech.example,2019-11-11,2022-08-03,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0319,"Austin, TX",95000,2026-06-13,Remote
+EMP-0708,Owen,Flores,owen.flores708@celestialridgetech.example,2018-12-25,2020-09-01,Terminated,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0130,"Denver, CO",132000,2026-02-03,On-site
+EMP-0709,Morgan,Kelly,morgan.kelly709@celestialridgetech.example,2025-11-04,,Active,Part-Time,Software Engineer,Engineering,ENG,EMP-0688,"Chicago, IL",98000,2026-01-23,Hybrid
+EMP-0710,Parker,Collins,parker.collins710@celestialridgetech.example,2025-02-18,,Active,Part-Time,HR Manager,Human Resources,HR,EMP-0537,"Providence, RI",55000,2026-07-08,Hybrid
+EMP-0711,Owen,James,owen.james711@celestialridgetech.example,2017-06-25,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0126,"Boston, MA",104000,2026-02-09,On-site
+EMP-0712,Ava,Turner,ava.turner712@celestialridgetech.example,2020-07-09,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0263,"Denver, CO",81000,2026-07-27,Remote
+EMP-0713,Ethan,Evans,ethan.evans713@celestialridgetech.example,2019-02-27,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Austin, TX",139000,2026-02-27,Remote
+EMP-0714,Lucas,Brooks,lucas.brooks714@celestialridgetech.example,2026-02-10,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0618,"Charlotte, NC",70000,2026-03-13,Hybrid
+EMP-0715,Skyler,Foster,skyler.foster715@celestialridgetech.example,2016-03-26,,Active,Full-Time,Paralegal,Legal,LEGAL,EMP-0407,"Charlotte, NC",99000,2026-07-20,Hybrid
+EMP-0716,Drew,Edwards,drew.edwards716@celestialridgetech.example,2024-07-16,2026-04-22,Terminated,Full-Time,Senior CSM,Customer Success,CS,EMP-0073,"Denver, CO",81000,2026-01-16,Remote
+EMP-0717,Rowan,Foster,rowan.foster717@celestialridgetech.example,2023-08-19,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0011,"Austin, TX",74000,2026-08-13,Remote
+EMP-0718,Riley,Kim,riley.kim718@celestialridgetech.example,2020-12-12,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0272,"Boston, MA",89000,2026-02-08,On-site
+EMP-0719,Casey,Kim,casey.kim719@celestialridgetech.example,2020-02-21,,Active,Full-Time,IT Manager,Information Technology,IT,,"Providence, RI",117000,2026-08-04,Hybrid
+EMP-0720,Noah,Howard,noah.howard720@celestialridgetech.example,2024-06-21,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0296,"Chicago, IL",92000,2026-04-23,On-site
+EMP-0721,Elena,Hayes,elena.hayes721@celestialridgetech.example,2022-12-13,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0099,"Providence, RI",85000,2026-02-25,Hybrid
+EMP-0722,Emerson,Walker,emerson.walker722@celestialridgetech.example,2021-06-21,,Active,Full-Time,HR Manager,Human Resources,HR,EMP-0710,"Denver, CO",62000,2026-08-09,On-site
+EMP-0723,Alex,Young,alex.young723@celestialridgetech.example,2025-10-12,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0147,"Boston, MA",111000,2026-03-04,Hybrid
+EMP-0724,Cameron,Morris,cameron.morris724@celestialridgetech.example,2022-09-27,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0395,"Chicago, IL",75000,2026-06-20,Remote
+EMP-0725,Jack,Owens,jack.owens725@celestialridgetech.example,2022-04-05,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0242,"Boston, MA",96000,2026-08-12,Hybrid
+EMP-0726,Sofia,Sullivan,sofia.sullivan726@celestialridgetech.example,2018-07-17,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0272,"Charlotte, NC",128000,2026-07-11,On-site
+EMP-0727,Reese,Foster,reese.foster727@celestialridgetech.example,2018-04-26,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0512,"Charlotte, NC",102000,2026-02-06,Remote
+EMP-0728,Ava,Turner,ava.turner728@celestialridgetech.example,2023-01-07,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0069,"Chicago, IL",77000,2026-04-17,Remote
+EMP-0729,Nina,Walker,nina.walker729@celestialridgetech.example,2023-06-13,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0004,"Chicago, IL",146000,2026-04-13,On-site
+EMP-0730,Alex,Foster,alex.foster730@celestialridgetech.example,2024-08-15,,Active,Full-Time,Product Manager,Product,PROD,,"Denver, CO",104000,2026-03-03,Remote
+EMP-0731,Avery,Lewis,avery.lewis731@celestialridgetech.example,2024-06-02,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0114,"Charlotte, NC",150000,2026-08-15,Hybrid
+EMP-0732,Nina,Green,nina.green732@celestialridgetech.example,2018-08-05,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0304,"Boston, MA",135000,2026-07-02,Hybrid
+EMP-0733,Dakota,Foster,dakota.foster733@celestialridgetech.example,2025-01-01,2025-09-15,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0717,"Austin, TX",52000,2026-01-31,Remote
+EMP-0734,Miles,Morris,miles.morris734@celestialridgetech.example,2020-07-26,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0345,"Boston, MA",89000,2026-04-19,On-site
+EMP-0735,Cameron,Edwards,cameron.edwards735@celestialridgetech.example,2020-05-12,,Active,Part-Time,Senior Software Engineer,Engineering,ENG,EMP-0034,"Austin, TX",145000,2026-07-07,On-site
+EMP-0736,Jamie,Diaz,jamie.diaz736@celestialridgetech.example,2016-11-06,,Active,Full-Time,HR Manager,Human Resources,HR,,"Austin, TX",81000,2026-08-01,Remote
+EMP-0737,Quinn,Reed,quinn.reed737@celestialridgetech.example,2021-07-07,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0391,"Denver, CO",116000,2026-04-10,Hybrid
+EMP-0738,Caleb,Collins,caleb.collins738@celestialridgetech.example,2016-02-04,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0209,"Denver, CO",76000,2026-01-31,Remote
+EMP-0739,Ethan,Edwards,ethan.edwards739@celestialridgetech.example,2019-04-22,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0613,"Charlotte, NC",117000,2026-06-22,Hybrid
+EMP-0740,Nina,Carter,nina.carter740@celestialridgetech.example,2022-04-27,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0275,"Chicago, IL",129000,2026-08-14,Hybrid
+EMP-0741,Zoe,Lewis,zoe.lewis741@celestialridgetech.example,2018-07-30,2022-09-24,Terminated,Full-Time,Operations Analyst,Operations,OPS,EMP-0661,"Charlotte, NC",85000,2026-06-09,Hybrid
+EMP-0742,Elena,Irwin,elena.irwin742@celestialridgetech.example,2022-04-26,2024-05-26,Terminated,Full-Time,Sales Manager,Sales,SALES,EMP-0465,"Chicago, IL",117000,2026-01-25,Hybrid
+EMP-0743,Avery,Flores,avery.flores743@celestialridgetech.example,2023-05-29,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0641,"Charlotte, NC",96000,2026-08-17,Remote
+EMP-0744,Nina,Lewis,nina.lewis744@celestialridgetech.example,2022-06-25,,Active,Full-Time,Customer Success Manager,Customer Success,OPS,EMP-0498,"Providence, RI",65000,2026-03-25,On-site
+EMP-0745,Caleb,Kim,caleb.kim745@celestialridgetech.example,2016-10-03,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0462,"Denver, CO",86000,2026-08-04,Remote
+EMP-0746,Henry,Irwin,henry.irwin746@celestialridgetech.example,2019-12-17,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0418,"Charlotte, NC",76000,2026-07-29,Remote
+EMP-0747,Cameron,Collins,cameron.collins747@celestialridgetech.example,2024-07-01,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0275,"Chicago, IL",71000,2026-06-11,Remote
+EMP-0748,Jack,Bennett,jack.bennett748@celestialridgetech.example,2022-04-21,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0616,"Providence, RI",122000,2026-07-14,Hybrid
+EMP-0749,Drew,Sullivan,drew.sullivan749@celestialridgetech.example,2024-08-02,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0218,"Boston, MA",124000,2026-06-14,Remote
+EMP-0750,Caleb,Flores,caleb.flores750@celestialridgetech.example,2020-08-13,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0619,"Boston, MA",150000,2026-04-03,Hybrid
+EMP-0751,Jamie,Collins,jamie.collins751@celestialridgetech.example,2018-08-21,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0384,"Denver, CO",143000,2026-07-18,Remote
+EMP-0752,Jamie,Mitchell,jamie.mitchell752@celestialridgetech.example,2019-07-26,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0418,"Denver, CO",62000,2026-01-09,Remote
+EMP-0753,Jamie,Sullivan,jamie.sullivan753@celestialridgetech.example,2021-05-11,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0089,"Boston, MA",93000,2026-01-13,Remote
+EMP-0754,Blake,Hayes,blake.hayes754@celestialridgetech.example,2018-05-03,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0088,"Austin, TX",147000,2026-01-14,Hybrid
+EMP-0755,Maya,Nguyen,maya.nguyen755@celestialridgetech.example,2024-11-10,2025-11-20,Terminated,Full-Time,HR Manager,Human Resources,HR,EMP-0137,"Providence, RI",114000,2026-03-19,Hybrid
+EMP-0756,Theo,Irwin,theo.irwin756@celestialridgetech.example,2016-01-30,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0174,"Boston, MA",58000,2026-07-17,Hybrid
+EMP-0757,Logan,Kelly,logan.kelly757@celestialridgetech.example,2018-12-18,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0211,"Chicago, IL",107000,2026-01-29,Remote
+EMP-0758,Caleb,Kelly,caleb.kelly758@celestialridgetech.example,2021-03-11,2021-06-19,Terminated,Part-Time,Engineering Manager,Engineering,ENG,EMP-0302,"Boston, MA",138000,2026-02-03,Remote
+EMP-0759,Nina,Morris,nina.morris759@celestialridgetech.example,2024-11-29,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0462,"Providence, RI",91000,2026-07-16,Remote
+EMP-0760,Sofia,Kim,sofia.kim760@celestialridgetech.example,2018-04-16,2023-12-15,Terminated,Full-Time,HR Specialist,Human Resources,HR,EMP-0537,"Denver, CO",97000,2026-08-21,Hybrid
+EMP-0761,Ava,Edwards,ava.edwards761@celestialridgetech.example,2026-06-08,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0388,"Charlotte, NC",86000,2026-06-04,Remote
+EMP-0762,Taylor,Sullivan,taylor.sullivan762@celestialridgetech.example,2022-10-18,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0119,"Charlotte, NC",95000,2026-01-23,On-site
+EMP-0763,Sofia,Patel,sofia.patel763@celestialridgetech.example,2021-08-09,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Chicago, IL",94000,2026-05-15,Hybrid
+EMP-0764,Emerson,Sullivan,emerson.sullivan764@celestialridgetech.example,2020-08-11,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0366,"Boston, MA",91000,2026-01-20,Hybrid
+EMP-0765,Alex,Edwards,alex.edwards765@celestialridgetech.example,2025-11-18,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0177,"Austin, TX",89000,2026-05-04,Remote
+EMP-0766,Nina,James,nina.james766@celestialridgetech.example,2024-11-27,,Active,Part-Time,Senior Product Manager,Product,PROD,,"Boston, MA",135000,2026-02-14,Remote
+EMP-0767,Elena,Hayes,elena.hayes767@celestialridgetech.example,2017-01-14,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0194,"Boston, MA",117000,2026-05-16,Remote
+EMP-0768,Miles,Collins,miles.collins768@celestialridgetech.example,2016-12-20,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0165,"Chicago, IL",112000,2026-07-17,Hybrid
+EMP-0769,Rowan,Mitchell,rowan.mitchell769@celestialridgetech.example,2023-12-12,2024-04-19,Terminated,Full-Time,IT Manager,Information Technology,IT,EMP-0328,"Denver, CO",84000,2026-08-07,Remote
+EMP-0770,Maya,Reed,maya.reed770@celestialridgetech.example,2022-05-08,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0159,"Chicago, IL",103000,2026-06-26,Remote
+EMP-0771,Lucas,Nguyen,lucas.nguyen771@celestialridgetech.example,2018-05-06,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0050,"Providence, RI",96000,2026-03-19,Hybrid
+EMP-0772,Dakota,Edwards,dakota.edwards772@celestialridgetech.example,2025-06-13,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0478,"Denver, CO",104000,2026-06-25,Hybrid
+EMP-0773,Blake,Collins,blake.collins773@celestialridgetech.example,2018-06-27,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0566,"Boston, MA",134000,2026-05-25,Remote
+EMP-0774,Parker,Howard,parker.howard774@celestialridgetech.example,2020-04-08,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0247,"Boston, MA",110000,2026-04-03,Remote
+EMP-0775,Alex,Diaz,alex.diaz775@celestialridgetech.example,2021-05-06,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0106,"Denver, CO",77000,2026-03-25,Hybrid
+EMP-0776,Elena,Mitchell,elena.mitchell776@celestialridgetech.example,2019-11-03,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0690,"Denver, CO",94000,2026-05-08,On-site
+EMP-0777,Nina,Reed,nina.reed777@celestialridgetech.example,2020-01-20,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0255,"Boston, MA",85000,2026-03-04,Remote
+EMP-0778,Leah,Lewis,leah.lewis778@celestialridgetech.example,2024-09-12,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0599,"Charlotte, NC",127000,2026-08-28,Hybrid
+EMP-0779,Owen,Hayes,owen.hayes779@celestialridgetech.example,2024-04-02,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0618,"Chicago, IL",88000,2026-01-06,Hybrid
+EMP-0780,Avery,Sullivan,avery.sullivan780@celestialridgetech.example,2018-04-22,,Active,Full-Time,Product Manager,Product,PROD,EMP-0177,"Austin, TX",80000,2026-02-11,Remote
+EMP-0781,Sofia,Hayes,sofia.hayes781@celestialridgetech.example,2020-04-11,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0052,"Denver, CO",86000,2026-04-22,Hybrid
+EMP-0782,Morgan,Evans,morgan.evans782@celestialridgetech.example,2016-04-05,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0124,"Charlotte, NC",99000,2026-08-06,Hybrid
+EMP-0783,Zoe,Mitchell,zoe.mitchell783@celestialridgetech.example,2024-10-01,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0337,"Denver, CO",84000,2026-03-06,On-site
+EMP-0784,Miles,Mitchell,miles.mitchell784@celestialridgetech.example,2017-12-11,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0566,"Charlotte, NC",88000,2026-08-11,Hybrid
+EMP-0785,Liam,Nguyen,liam.nguyen785@celestialridgetech.example,2020-05-15,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0157,"Boston, MA",58000,2026-05-02,Remote
+EMP-0786,Ava,Hayes,ava.hayes786@celestialridgetech.example,2025-11-07,,Active,Full-Time,Product Manager,Product,PROD,EMP-0351,"Boston, MA",126000,2026-04-09,Remote
+EMP-0787,Riley,Nguyen,riley.nguyen787@celestialridgetech.example,2021-01-06,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0691,"Charlotte, NC",139000,2026-01-14,On-site
+EMP-0788,Emerson,Flores,emerson.flores788@celestialridgetech.example,2025-10-12,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0215,"Boston, MA",111000,2026-07-24,Remote
+EMP-0789,Liam,Bennett,liam.bennett789@celestialridgetech.example,2026-01-03,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0702,"Austin, TX",67000,2026-05-04,Remote
+EMP-0790,Ava,Collins,ava.collins790@celestialridgetech.example,2026-03-18,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0289,"Austin, TX",102000,2026-04-22,Hybrid
+EMP-0791,Caleb,Garcia,caleb.garcia791@celestialridgetech.example,2022-02-19,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0018,"Denver, CO",67000,2026-07-15,Hybrid
+EMP-0792,Leah,Young,leah.young792@celestialridgetech.example,2017-07-11,,Active,Part-Time,Marketing Specialist,Marketing,MKTG,EMP-0296,"Providence, RI",82000,2026-01-05,Hybrid
+EMP-0793,Grace,Mitchell,grace.mitchell793@celestialridgetech.example,2025-05-10,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0056,"Austin, TX",139000,2026-03-26,Hybrid
+EMP-0794,Grace,Turner,grace.turner794@celestialridgetech.example,2021-05-14,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0773,"Charlotte, NC",80000,2026-07-05,Hybrid
+EMP-0795,Theo,Foster,theo.foster795@celestialridgetech.example,2023-04-24,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0017,"Austin, TX",83000,2026-04-14,Remote
+EMP-0796,Noah,Morris,noah.morris796@celestialridgetech.example,2022-04-07,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0620,"Providence, RI",83000,2026-01-13,Hybrid
+EMP-0797,Nina,Walker,nina.walker797@celestialridgetech.example,2020-09-24,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0579,"Charlotte, NC",73000,2026-04-02,Hybrid
+EMP-0798,Sofia,Mitchell,sofia.mitchell798@celestialridgetech.example,2023-01-22,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0730,"Boston, MA",142000,2026-02-01,Hybrid
+EMP-0799,Caleb,Owens,caleb.owens799@celestialridgetech.example,2023-04-01,,Active,Full-Time,Product Manager,Product,PROD,EMP-0042,"Austin, TX",75000,2026-08-29,On-site
+EMP-0800,Liam,Diaz,liam.diaz800@celestialridgetech.example,2021-07-07,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0105,"Boston, MA",114000,2026-04-19,Remote
+EMP-0801,Jordan,Hayes,jordan.hayes801@celestialridgetech.example,2017-11-14,,Active,Part-Time,Engineering Manager,Engineering,ENG,EMP-0731,"Boston, MA",111000,2026-06-01,Remote
+EMP-0802,Parker,Johnson,parker.johnson802@celestialridgetech.example,2021-12-06,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0277,"Charlotte, NC",107000,2026-03-22,Hybrid
+EMP-0803,Rowan,Diaz,rowan.diaz803@celestialridgetech.example,2026-03-01,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0065,"Chicago, IL",82000,2026-05-15,Remote
+EMP-0804,Lucas,Owens,lucas.owens804@celestialridgetech.example,2022-10-28,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0335,"Denver, CO",100000,2026-06-04,Remote
+EMP-0805,Riley,Collins,riley.collins805@celestialridgetech.example,2024-07-30,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0307,"Chicago, IL",84000,2026-06-03,Hybrid
+EMP-0806,Theo,Sullivan,theo.sullivan806@celestialridgetech.example,2019-03-17,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0320,"Providence, RI",108000,2026-08-08,Hybrid
+EMP-0807,Maya,Kim,maya.kim807@celestialridgetech.example,2026-05-25,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0111,"Charlotte, NC",77000,2026-07-07,Remote
+EMP-0808,Zoe,Mitchell,zoe.mitchell808@celestialridgetech.example,2026-02-12,,Active,Part-Time,Sales Manager,Sales,SALES,EMP-0658,"Chicago, IL",137000,2026-06-08,Remote
+EMP-0809,Nina,Collins,nina.collins809@celestialridgetech.example,2023-01-24,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0182,"Austin, TX",64000,2026-04-11,Remote
+EMP-0810,Henry,Collins,henry.collins810@celestialridgetech.example,2020-11-19,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0317,"Denver, CO",122000,2026-01-16,On-site
+EMP-0811,Owen,Lewis,owen.lewis811@celestialridgetech.example,2023-01-16,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0702,"Austin, TX",69000,2026-08-10,Remote
+EMP-0812,Lucas,Howard,lucas.howard812@celestialridgetech.example,2020-09-05,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0007,"Charlotte, NC",87000,2026-03-11,Hybrid
+EMP-0813,Emerson,Flores,emerson.flores813@celestialridgetech.example,2018-10-11,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0749,"Charlotte, NC",125000,2026-03-27,Hybrid
+EMP-0814,Avery,Evans,avery.evans814@celestialridgetech.example,2022-12-22,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0567,"Boston, MA",93000,2026-06-29,Hybrid
+EMP-0815,Taylor,Turner,taylor.turner815@celestialridgetech.example,2016-08-27,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0265,"Charlotte, NC",139000,2026-05-11,Remote
+EMP-0816,Maya,Collins,maya.collins816@celestialridgetech.example,2018-07-15,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0443,"Denver, CO",82000,2026-07-01,Remote
+EMP-0817,Alex,Edwards,alex.edwards817@celestialridgetech.example,2022-01-09,2025-12-03,Terminated,Full-Time,Financial Analyst,Finance,FIN,EMP-0067,"Providence, RI",90000,2026-03-25,Hybrid
+EMP-0818,Zoe,Carter,zoe.carter818@celestialridgetech.example,2024-02-27,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0246,"Charlotte, NC",57000,2026-06-04,Hybrid
+EMP-0819,Dakota,Garcia,dakota.garcia819@celestialridgetech.example,2021-07-21,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0602,"Providence, RI",136000,2026-07-17,Remote
+EMP-0820,Dakota,Walker,dakota.walker820@celestialridgetech.example,2019-01-30,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0265,"Austin, TX",86000,2026-06-24,Remote
+EMP-0821,Riley,Nguyen,riley.nguyen821@celestialridgetech.example,2016-07-16,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0735,"Providence, RI",104000,2026-08-28,On-site
+EMP-0822,Blake,Anderson,blake.anderson822@celestialridgetech.example,2018-06-16,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0724,"Boston, MA",53000,2026-01-16,Hybrid
+EMP-0823,Jamie,Foster,jamie.foster823@celestialridgetech.example,2022-02-01,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0313,"Chicago, IL",104000,2026-01-10,Hybrid
+EMP-0824,Lucas,Brooks,lucas.brooks824@celestialridgetech.example,2025-03-08,2026-06-21,Terminated,Part-Time,Engineering Manager,Engineering,ENG,EMP-0597,"Boston, MA",112000,2026-02-10,Hybrid
+EMP-0825,Skyler,Green,skyler.green825@celestialridgetech.example,2025-12-03,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0161,"Charlotte, NC",122000,2026-06-05,Remote
+EMP-0826,Parker,Collins,parker.collins826@celestialridgetech.example,2026-04-02,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0146,"Denver, CO",100000,2026-02-02,Remote
+EMP-0827,Theo,Morris,theo.morris827@celestialridgetech.example,2023-10-22,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0441,"Boston, MA",110000,2026-04-26,Remote
+EMP-0828,Cameron,Bennett,cameron.bennett828@celestialridgetech.example,2021-08-28,2024-04-29,Terminated,Full-Time,HR Manager,Human Resources,HR,EMP-0137,"Denver, CO",59000,2026-07-18,Remote
+EMP-0829,Zoe,James,zoe.james829@celestialridgetech.example,2018-07-05,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0441,"Charlotte, NC",90000,2026-06-04,Hybrid
+EMP-0830,Liam,Mitchell,liam.mitchell830@celestialridgetech.example,2020-06-07,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0632,"Denver, CO",121000,2026-03-25,Remote
+EMP-0831,Jamie,Morris,jamie.morris831@celestialridgetech.example,2023-03-20,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0222,"Providence, RI",137000,2026-03-18,Remote
+EMP-0832,Maya,Reed,maya.reed832@celestialridgetech.example,2025-09-15,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-9999,"Charlotte, NC",74000,2026-04-30,Remote
+EMP-0833,Rowan,Foster,rowan.foster833@celestialridgetech.example,2019-01-24,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0759,"Austin, TX",109000,2026-07-02,Hybrid
+EMP-0834,Chloe,Reed,chloe.reed834@celestialridgetech.example,2021-07-19,,Active,Part-Time,Data Analyst,Data & Analytics,DATA,EMP-0077,"Austin, TX",130000,2026-06-07,Remote
+EMP-0835,Jack,Evans,jack.evans835@celestialridgetech.example,2018-11-19,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0149,"Boston, MA",95000,2026-08-29,Remote
+EMP-0836,Nina,Brooks,nina.brooks836@celestialridgetech.example,2019-03-12,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0746,"Boston, MA",101000,2026-03-19,Remote
+EMP-0837,Liam,Lewis,liam.lewis837@celestialridgetech.example,2016-04-12,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0578,"Boston, MA",89000,2026-03-08,Remote
+EMP-0838,Drew,Diaz,drew.diaz838@celestialridgetech.example,2019-12-21,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0327,"Chicago, IL",63000,2026-06-11,Hybrid
+EMP-0839,Reese,Walker,reese.walker839@celestialridgetech.example,2018-07-28,,Active,Part-Time,Operations Specialist,Operations,OPS,EMP-0836,"Denver, CO",104000,2026-04-25,Hybrid
+EMP-0840,Miles,Johnson,miles.johnson840@celestialridgetech.example,2017-02-16,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0798,"Chicago, IL",84000,2026-05-10,Hybrid
+EMP-0841,Casey,Evans,casey.evans841@celestialridgetech.example,2023-09-13,2026-04-27,Terminated,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0035,"Charlotte, NC",90000,2026-04-19,Remote
+EMP-0842,Maya,Howard,maya.howard842@celestialridgetech.example,2020-07-13,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0150,"Chicago, IL",69000,2026-02-18,Remote
+EMP-0843,Logan,Carter,logan.carter843@celestialridgetech.example,2019-12-09,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0204,"Chicago, IL",143000,2026-03-10,On-site
+EMP-0844,Nina,Collins,nina.collins844@celestialridgetech.example,2020-09-08,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0223,"Charlotte, NC",95000,2026-03-13,Hybrid
+EMP-0845,Jamie,Irwin,jamie.irwin845@celestialridgetech.example,2026-02-08,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0840,"Providence, RI",115000,2026-03-02,Hybrid
+EMP-0846,Cameron,Kim,cameron.kim846@celestialridgetech.example,2022-01-02,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0360,"Charlotte, NC",70000,2026-05-15,On-site
+EMP-0847,Logan,Lewis,logan.lewis847@celestialridgetech.example,2020-01-12,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0388,"Denver, CO",128000,2026-05-02,Hybrid
+EMP-0848,Caleb,Kim,caleb.kim848@celestialridgetech.example,2023-10-24,2024-10-19,Terminated,Full-Time,Senior Product Manager,Product,PROD,EMP-0766,"Austin, TX",95000,2026-07-19,Remote
+EMP-0849,Quinn,Diaz,quinn.diaz849@celestialridgetech.example,2026-06-02,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0736,"Denver, CO",55000,2026-02-02,Remote
+EMP-0850,Miles,Owens,miles.owens850@celestialridgetech.example,2019-08-06,,Active,Full-Time,Product Manager,Product,PROD,EMP-0703,"Boston, MA",93000,2026-02-02,Remote
+EMP-0851,Quinn,Kim,quinn.kim851@celestialridgetech.example,2019-12-06,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0642,"Charlotte, NC",95000,2026-01-17,Remote
+EMP-0852,Sofia,Patel,sofia.patel852@celestialridgetech.example,2019-01-15,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0724,"Chicago, IL",50000,2026-04-04,Remote
+EMP-0853,Jordan,Walker,jordan.walker853@celestialridgetech.example,2016-12-20,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0098,"Boston, MA",73000,2026-03-21,Remote
+EMP-0854,Theo,Anderson,theo.anderson854@celestialridgetech.example,2017-04-08,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0458,"Austin, TX",92000,2026-02-19,On-site
+EMP-0855,Ava,Green,ava.green855@celestialridgetech.example,2026-06-02,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0521,"Boston, MA",125000,2026-03-29,On-site
+EMP-0856,Caleb,James,caleb.james856@celestialridgetech.example,2026-05-27,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0189,"Charlotte, NC",59000,2026-01-31,Remote
+EMP-0857,Reese,Sullivan,reese.sullivan857@celestialridgetech.example,2017-06-02,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0188,"Providence, RI",50000,2026-01-27,Hybrid
+EMP-0858,Ava,Morris,ava.morris858@celestialridgetech.example,2020-10-16,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0404,"Providence, RI",105000,2026-04-14,Remote
+EMP-0859,Grace,Owens,grace.owens859@celestialridgetech.example,2026-01-31,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0789,"Austin, TX",115000,2026-08-27,Remote
+EMP-0860,Chloe,Young,chloe.young860@celestialridgetech.example,2021-05-05,2024-08-24,Terminated,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0356,"Austin, TX",84000,2026-02-14,On-site
+EMP-0861,Alex,Patel,alex.patel861@celestialridgetech.example,2016-04-16,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0206,"Providence, RI",113000,2026-02-17,Remote
+EMP-0862,Owen,Lewis,owen.lewis862@celestialridgetech.example,2017-12-18,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0414,"Boston, MA",86000,2026-07-18,On-site
+EMP-0863,Rowan,Hayes,rowan.hayes863@celestialridgetech.example,2025-06-13,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0296,"Chicago, IL",64000,2026-02-24,Remote
+EMP-0864,Liam,Edwards,liam.edwards864@celestialridgetech.example,2018-03-14,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0408,"Austin, TX",93000,2026-01-25,Hybrid
+EMP-0865,Theo,Anderson,theo.anderson865@celestialridgetech.example,2022-03-14,,Active,Full-Time,Product Manager,Product,PROD,EMP-0177,"Providence, RI",127000,2026-01-09,Hybrid
+EMP-0866,Leah,Green,leah.green866@celestialridgetech.example,2025-11-25,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0536,"Denver, CO",92000,2026-07-19,Hybrid
+EMP-0867,Lucas,Morris,lucas.morris867@celestialridgetech.example,2018-11-15,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0520,"Charlotte, NC",107000,2026-02-07,Remote
+EMP-0868,Owen,Green,owen.green868@celestialridgetech.example,2017-02-28,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0316,"Chicago, IL",111000,2026-07-14,Hybrid
+EMP-0869,Logan,Carter,logan.carter869@celestialridgetech.example,2019-02-24,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0590,"Charlotte, NC",120000,2026-06-22,Hybrid
+EMP-0870,Leah,Owens,leah.owens870@celestialridgetech.example,2017-07-23,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0699,"Chicago, IL",117000,2026-02-06,Hybrid
+EMP-0871,Jack,Reed,jack.reed871@celestialridgetech.example,2025-11-01,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0071,"Providence, RI",116000,2026-04-17,On-site
+EMP-0872,Jordan,Brooks,jordan.brooks872@celestialridgetech.example,2023-07-28,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0330,"Chicago, IL",122000,2026-07-20,Remote
+EMP-0873,Hayden,Hayes,hayden.hayes873@celestialridgetech.example,2020-03-18,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0075,"Austin, TX",58000,2026-08-23,Hybrid
+EMP-0874,Avery,Irwin,avery.irwin874@celestialridgetech.example,2022-07-25,,Active,Part-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0294,"Austin, TX",114000,2026-03-20,Hybrid
+EMP-0875,Hayden,Green,hayden.green875@celestialridgetech.example,2018-12-30,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0659,"Providence, RI",138000,2026-08-08,Remote
+EMP-0876,Nina,Kim,nina.kim876@celestialridgetech.example,2022-06-23,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0066,"Providence, RI",129000,2026-05-11,Remote
+EMP-0877,Blake,Owens,blake.owens877@celestialridgetech.example,2024-06-13,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0800,"Boston, MA",155000,2026-06-14,Hybrid
+EMP-0878,Blake,Kelly,blake.kelly878@celestialridgetech.example,2020-03-30,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0589,"Boston, MA",112000,2026-06-09,Hybrid
+EMP-0879,Chloe,Diaz,chloe.diaz879@celestialridgetech.example,2023-11-07,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0516,"Charlotte, NC",87000,2026-01-13,Hybrid
+EMP-0880,Ava,James,ava.james880@celestialridgetech.example,2022-08-04,,Active,Part-Time,Analytics Manager,Data & Analytics,DATA,,"Charlotte, NC",126000,2026-06-18,Hybrid
+EMP-0881,Chloe,Walker,chloe.walker881@celestialridgetech.example,2024-09-15,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0238,"Charlotte, NC",83000,2026-02-08,Hybrid
+EMP-0882,Theo,Walker,theo.walker882@celestialridgetech.example,2024-05-16,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0048,"Austin, TX",96000,2026-02-18,Remote
+EMP-0883,Henry,Sullivan,henry.sullivan883@celestialridgetech.example,2024-03-16,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0737,"Boston, MA",71000,2026-05-15,Hybrid
+EMP-0884,Rowan,Kelly,rowan.kelly884@celestialridgetech.example,2024-02-10,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0437,"Denver, CO",84000,2026-05-03,Hybrid
+EMP-0885,Leah,Walker,leah.walker885@celestialridgetech.example,2025-11-14,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0488,"Charlotte, NC",78000,2026-05-30,Remote
+EMP-0886,Jack,Kelly,jack.kelly886@celestialridgetech.example,2025-09-24,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0669,"Charlotte, NC",121000,2026-06-10,Remote
+EMP-0887,Rowan,Howard,rowan.howard887@celestialridgetech.example,2023-05-09,2023-07-11,Terminated,Part-Time,Senior Financial Analyst,Finance,FIN,EMP-0183,"Providence, RI",71000,2026-03-08,Remote
+EMP-0888,Jack,Edwards,jack.edwards888@celestialridgetech.example,2020-08-02,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0295,"Charlotte, NC",133000,2026-01-17,Hybrid
+EMP-0889,Leah,Mitchell,leah.mitchell889@celestialridgetech.example,2020-07-16,2021-11-29,Terminated,Part-Time,Software Engineer,Engineering,ENG,EMP-0381,"Charlotte, NC",96000,2026-07-23,Hybrid
+EMP-0890,Jordan,Diaz,jordan.diaz890@celestialridgetech.example,2025-01-25,,Active,Full-Time,Customer Success Manager,Customer Success,CS,EMP-0837,"Charlotte, NC",92000,2026-04-08,Hybrid
+EMP-0891,Parker,Evans,parker.evans891@celestialridgetech.example,2016-08-04,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0445,"Boston, MA",120000,2026-06-07,Hybrid
+EMP-0892,Miles,Bennett,miles.bennett892@celestialridgetech.example,2019-01-30,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0467,"Providence, RI",101000,2026-05-18,Hybrid
+EMP-0893,Zoe,Owens,zoe.owens893@celestialridgetech.example,2017-03-26,,Active,Full-Time,IT Manager,Information Technology,IT,,"Providence, RI",61000,2026-01-16,On-site
+EMP-0894,Mia,Sullivan,mia.sullivan894@celestialridgetech.example,2019-02-07,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0077,"Austin, TX",91000,2026-06-17,Hybrid
+EMP-0895,Theo,Walker,theo.walker895@celestialridgetech.example,2024-10-26,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0839,"Denver, CO",88000,2026-06-18,Hybrid
+EMP-0896,Liam,Collins,liam.collins896@celestialridgetech.example,2022-09-20,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0135,"Boston, MA",68000,2026-08-06,Remote
+EMP-0897,Ava,Carter,ava.carter897@celestialridgetech.example,2016-02-09,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0592,"Boston, MA",99000,2026-06-27,On-site
+EMP-0898,Casey,Nguyen,casey.nguyen898@celestialridgetech.example,2016-11-25,,Active,Full-Time,Software Engineer,Engineering,ENG,,"Boston, MA",102000,2026-01-17,Hybrid
+EMP-0899,Logan,Turner,logan.turner899@celestialridgetech.example,2019-02-03,2022-12-17,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0051,"Charlotte, NC",101000,2026-01-27,Hybrid
+EMP-0900,Morgan,Owens,morgan.owens900@celestialridgetech.example,2026-05-09,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0278,"Boston, MA",59000,2026-06-24,Hybrid
+EMP-0901,Rowan,Brooks,rowan.brooks901@celestialridgetech.example,2021-05-03,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0035,"Charlotte, NC",125000,2026-05-06,Hybrid
+EMP-0902,Maya,Mitchell,maya.mitchell902@celestialridgetech.example,2023-02-02,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,EMP-0335,"Chicago, IL",129000,2026-08-27,On-site
+EMP-0903,Avery,Anderson,avery.anderson903@celestialridgetech.example,2025-02-01,2025-10-19,Terminated,Full-Time,Legal Operations Specialist,Legal,LEGAL,,"Charlotte, NC",81000,2026-02-14,Hybrid
+EMP-0904,Parker,Hayes,parker.hayes904@celestialridgetech.example,2020-06-30,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0080,"Austin, TX",106000,2026-04-23,Remote
+EMP-0905,Theo,Morris,theo.morris905@celestialridgetech.example,2018-01-15,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0611,"Denver, CO",104000,2026-07-29,Hybrid
+EMP-0906,Theo,Evans,theo.evans906@celestialridgetech.example,2019-04-29,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0039,"Austin, TX",97000,2026-04-30,On-site
+EMP-0907,Chloe,Reed,chloe.reed907@celestialridgetech.example,2022-11-19,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0057,"Chicago, IL",113000,2026-01-04,Hybrid
+EMP-0908,Liam,Diaz,liam.diaz908@celestialridgetech.example,2023-11-11,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0206,"Providence, RI",90000,2026-07-04,Remote
+EMP-0909,Ava,Irwin,ava.irwin909@celestialridgetech.example,2024-04-25,,Active,Part-Time,Engineering Manager,Engineering,ENG,,"Chicago, IL",149000,2026-03-06,Hybrid
+EMP-0910,Grace,Bennett,grace.bennett910@celestialridgetech.example,2023-02-15,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0066,"Providence, RI",114000,2026-02-18,Hybrid
+EMP-0911,Jordan,Patel,jordan.patel911@celestialridgetech.example,2024-11-13,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0240,"Charlotte, NC",97000,2026-02-26,Hybrid
+EMP-0912,Leah,Kelly,leah.kelly912@celestialridgetech.example,2018-01-25,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0379,"Charlotte, NC",139000,2026-01-13,Hybrid
+EMP-0913,Jack,Foster,jack.foster913@celestialridgetech.example,2024-08-08,,Active,Part-Time,Senior Product Manager,Product,PROD,EMP-0019,"Austin, TX",76000,2026-07-11,Hybrid
+EMP-0914,Elena,Nguyen,elena.nguyen914@celestialridgetech.example,2020-10-09,,Active,Part-Time,Software Engineer,Engineering,ENG,EMP-0909,"Austin, TX",143000,2026-05-01,Remote
+EMP-0915,Theo,Foster,theo.foster915@celestialridgetech.example,2017-08-11,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0477,"Charlotte, NC",69000,2026-04-02,Hybrid
+EMP-0916,Jamie,Bennett,jamie.bennett916@celestialridgetech.example,2017-07-24,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0833,"Chicago, IL",115000,2026-03-06,Hybrid
+EMP-0917,Elena,Irwin,elena.irwin917@celestialridgetech.example,2017-06-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0306,"Denver, CO",95000,2026-07-26,On-site
+EMP-0918,Grace,Reed,grace.reed918@celestialridgetech.example,2019-04-06,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0513,"Providence, RI",96000,2026-04-02,Hybrid
+EMP-0919,Henry,Edwards,henry.edwards919@celestialridgetech.example,2025-04-04,2026-05-19,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0125,"Austin, TX",122000,2026-05-02,Remote
+EMP-0920,Hayden,Edwards,hayden.edwards920@celestialridgetech.example,2018-02-10,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0678,"Austin, TX",100000,2026-05-27,Hybrid
+EMP-0921,Grace,Diaz,grace.diaz921@celestialridgetech.example,2022-01-26,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0253,"Denver, CO",101000,2026-06-20,Remote
+EMP-0922,Hayden,Evans,hayden.evans922@celestialridgetech.example,2016-11-02,,Active,Part-Time,Legal Operations Manager,Legal,LEGAL,EMP-0201,"Providence, RI",118000,2026-07-04,Hybrid
+EMP-0923,Grace,Irwin,grace.irwin923@celestialridgetech.example,2023-08-09,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0023,"Denver, CO",119000,2026-05-29,Hybrid
+EMP-0924,Caleb,Turner,caleb.turner924@celestialridgetech.example,2023-01-08,,Active,Part-Time,Analytics Manager,Data & Analytics,DATA,EMP-0892,"Denver, CO",73000,2026-02-10,Remote
+EMP-0925,Reese,Carter,reese.carter925@celestialridgetech.example,2017-05-16,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0211,"Austin, TX",133000,2026-01-14,Remote
+EMP-0926,Parker,Walker,parker.walker926@celestialridgetech.example,2021-04-21,2021-10-21,Terminated,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0673,"Providence, RI",90000,2026-02-15,Remote
+EMP-0927,Hayden,Patel,hayden.patel927@celestialridgetech.example,2018-01-15,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0109,"Charlotte, NC",97000,2026-06-19,On-site
+EMP-0928,Nina,Kim,nina.kim928@celestialridgetech.example,2018-09-24,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0302,"Austin, TX",139000,2026-05-15,Remote
+EMP-0929,Rowan,Reed,rowan.reed929@celestialridgetech.example,2018-04-02,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0911,"Providence, RI",68000,2026-08-16,Remote
+EMP-0930,Reese,Mitchell,reese.mitchell930@celestialridgetech.example,2018-11-27,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0917,"Providence, RI",142000,2026-04-16,Remote
+EMP-0931,Blake,Brooks,blake.brooks931@celestialridgetech.example,2017-03-27,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0366,"Denver, CO",130000,2026-08-08,Remote
+EMP-0932,Grace,Foster,grace.foster932@celestialridgetech.example,2024-01-15,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,,"Chicago, IL",91000,2026-05-05,Remote
+EMP-0933,Miles,James,miles.james933@celestialridgetech.example,2025-03-24,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0127,"Austin, TX",125000,2026-02-01,Hybrid
+EMP-0934,Owen,Carter,owen.carter934@celestialridgetech.example,2019-03-29,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0267,"Providence, RI",122000,2026-06-07,Hybrid
+EMP-0935,Henry,Anderson,henry.anderson935@celestialridgetech.example,2017-02-11,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0289,"Chicago, IL",86000,2026-02-06,Hybrid
+EMP-0936,Logan,Hayes,logan.hayes936@celestialridgetech.example,2022-04-27,,Active,Full-Time,Operations Specialist,Operations,OPS,EMP-0852,"Boston, MA",107000,2026-03-21,Hybrid
+EMP-0937,Owen,Green,owen.green937@celestialridgetech.example,2019-01-26,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0529,"Boston, MA",95000,2026-03-21,Hybrid
+EMP-0938,Riley,Kim,riley.kim938@celestialridgetech.example,2019-03-23,,Active,Full-Time,Product Manager,Product,PROD,EMP-0840,"Chicago, IL",130000,2026-05-15,On-site
+EMP-0939,Blake,Reed,blake.reed939@celestialridgetech.example,2026-04-29,,Active,Full-Time,Senior Product Manager,Product,PROD,EMP-0786,"Denver, CO",97000,2026-01-14,Remote
+EMP-0940,Skyler,Bennett,skyler.bennett940@celestialridgetech.example,2022-03-18,,Active,Full-Time,Product Manager,Product,PROD,EMP-0032,"Charlotte, NC",84000,2026-02-23,On-site
+EMP-0941,Rowan,Sullivan,rowan.sullivan941@celestialridgetech.example,2019-10-15,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0886,"Chicago, IL",125000,2026-08-07,Remote
+EMP-0942,Lucas,Morris,lucas.morris942@celestialridgetech.example,2020-04-19,,Active,Part-Time,Engineering Manager,Engineering,ENG,EMP-0099,"Denver, CO",115000,2026-08-17,Hybrid
+EMP-0943,Grace,Howard,grace.howard943@celestialridgetech.example,2020-08-24,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0732,"Denver, CO",99000,2026-06-18,Remote
+EMP-0944,Morgan,Morris,morgan.morris944@celestialridgetech.example,2023-01-08,2024-03-13,Terminated,Full-Time,Engineering Manager,Engineering,ENG,EMP-0855,"Boston, MA",133000,2026-07-09,Remote
+EMP-0945,Hayden,Kelly,hayden.kelly945@celestialridgetech.example,2022-06-02,,Active,Full-Time,HR Coordinator,Human Resources,HR,EMP-0268,"Austin, TX",61000,2026-03-09,Remote
+EMP-0946,Skyler,Howard,skyler.howard946@celestialridgetech.example,2020-05-05,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0207,"Austin, TX",80000,2026-05-24,Remote
+EMP-0947,Dakota,Garcia,dakota.garcia947@celestialridgetech.example,2023-10-23,,Active,Full-Time,Senior CSM,Customer Success,CS,EMP-0635,"Boston, MA",81000,2026-06-08,On-site
+EMP-0948,Ava,Turner,ava.turner948@celestialridgetech.example,2022-02-08,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0642,"Charlotte, NC",88000,2026-06-03,Hybrid
+EMP-0949,Ethan,Edwards,ethan.edwards949@celestialridgetech.example,2018-08-29,,Active,Full-Time,Operations Analyst,Operations,OPS,EMP-0814,"Denver, CO",73000,2026-06-24,Hybrid
+EMP-0950,Sofia,Young,sofia.young950@celestialridgetech.example,2020-01-19,2023-06-06,Terminated,Full-Time,Finance Manager,Finance,FIN,EMP-0443,"Charlotte, NC",73000,2026-02-06,Hybrid
+EMP-0951,Miles,Evans,miles.evans951@celestialridgetech.example,2025-05-26,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0447,"Austin, TX",112000,2026-07-03,Remote
+EMP-0952,Theo,Kim,theo.kim952@celestialridgetech.example,2024-09-20,,Active,Full-Time,Product Manager,Product,PROD,EMP-0870,"Denver, CO",75000,2026-08-19,Hybrid
+EMP-0953,Ethan,Walker,ethan.walker953@celestialridgetech.example,2026-02-04,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0191,"Denver, CO",71000,2026-02-28,Remote
+EMP-0954,Henry,Nguyen,henry.nguyen954@celestialridgetech.example,2016-10-17,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0438,"Providence, RI",81000,2026-03-05,Remote
+EMP-0955,Skyler,Howard,skyler.howard955@celestialridgetech.example,2018-12-17,2021-02-15,Terminated,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0263,"Chicago, IL",66000,2026-06-01,Hybrid
+EMP-0956,Henry,Bennett,henry.bennett956@celestialridgetech.example,2025-02-12,,Active,Full-Time,Analytics Manager,Data & Analytics,DATA,EMP-0253,"Boston, MA",94000,2026-03-14,Hybrid
+EMP-0957,Henry,Turner,henry.turner957@celestialridgetech.example,2025-09-29,,Active,Full-Time,Marketing Analyst,Marketing,MKTG,EMP-0775,"Providence, RI",83000,2026-07-09,Hybrid
+EMP-0958,Quinn,Kelly,quinn.kelly958@celestialridgetech.example,2017-11-10,2022-05-06,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0110,"Charlotte, NC",147000,2026-05-22,Remote
+EMP-0959,Zoe,Hayes,zoe.hayes959@celestialridgetech.example,2016-09-28,,Active,Full-Time,Product Manager,Product,PROD,EMP-0032,"Austin, TX",115000,2026-03-26,Remote
+EMP-0960,Jack,Anderson,jack.anderson960@celestialridgetech.example,2021-06-05,,Active,Full-Time,Finance Manager,Finance,FIN,EMP-0611,"Providence, RI",69000,2026-03-11,Remote
+EMP-0961,Riley,Diaz,riley.diaz961@celestialridgetech.example,2017-01-07,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,,"Chicago, IL",113000,2026-01-02,Hybrid
+EMP-0962,Miles,Collins,miles.collins962@celestialridgetech.example,2024-01-17,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0585,"Boston, MA",123000,2026-01-24,On-site
+EMP-0963,Miles,Patel,miles.patel963@celestialridgetech.example,2021-12-16,,Active,Full-Time,Marketing Manager,Marketing,MKTG,EMP-0424,"Austin, TX",76000,2026-08-27,Hybrid
+EMP-0964,Henry,Sullivan,henry.sullivan964@celestialridgetech.example,2025-01-25,,Active,Full-Time,Engineering Manager,Engineering,ENG,EMP-0016,"Boston, MA",86000,2026-07-11,Remote
+EMP-0965,Quinn,Kelly,quinn.kelly965@celestialridgetech.example,2018-04-16,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0609,"Denver, CO",124000,2026-04-23,Hybrid
+EMP-0966,Avery,Diaz,avery.diaz966@celestialridgetech.example,2023-05-03,,Active,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0430,"Charlotte, NC",155000,2026-08-28,Remote
+EMP-0967,Parker,Morris,parker.morris967@celestialridgetech.example,2018-06-22,,Active,Full-Time,HR Specialist,Human Resources,HR,EMP-0701,"Austin, TX",58000,2026-03-09,On-site
+EMP-0968,Emerson,Diaz,emerson.diaz968@celestialridgetech.example,2016-07-22,,Active,Full-Time,Software Engineer,Engineering,ENG,EMP-0091,"Denver, CO",118000,2026-08-29,Remote
+EMP-0969,Caleb,Collins,caleb.collins969@celestialridgetech.example,2023-02-18,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0762,"Boston, MA",117000,2026-05-01,Remote
+EMP-0970,Drew,Turner,drew.turner970@celestialridgetech.example,2025-12-29,2026-05-25,Terminated,Full-Time,Senior Software Engineer,Engineering,ENG,EMP-0754,"Charlotte, NC",133000,2026-06-05,Hybrid
+EMP-0971,Theo,Garcia,theo.garcia971@celestialridgetech.example,2026-01-11,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0704,"Austin, TX",89000,2026-03-21,Hybrid
+EMP-0972,Leah,Walker,leah.walker972@celestialridgetech.example,2025-11-08,,Active,Part-Time,Senior Software Engineer,Engineering,ENG,EMP-0127,"Chicago, IL",88000,2026-08-28,Hybrid
+EMP-0973,Elena,Diaz,elena.diaz973@celestialridgetech.example,2017-12-16,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0477,"Boston, MA",84000,2026-08-23,Remote
+EMP-0974,Avery,Hayes,avery.hayes974@celestialridgetech.example,2023-01-31,,Active,Full-Time,Systems Analyst,Information Technology,IT,EMP-0328,"Providence, RI",98000,2026-02-07,Hybrid
+EMP-0975,Caleb,Foster,caleb.foster975@celestialridgetech.example,2020-08-19,,Active,Full-Time,Account Executive,Sales,SALES,EMP-0670,"Boston, MA",114000,2026-01-02,Remote
+EMP-0976,Theo,Walker,theo.walker976@celestialridgetech.example,2020-05-09,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0437,"Providence, RI",73000,2026-06-01,Remote
+EMP-0977,Morgan,Edwards,morgan.edwards977@celestialridgetech.example,2022-05-14,2025-05-31,Terminated,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0214,"Denver, CO",72000,2026-06-09,Remote
+EMP-0978,Liam,Hayes,liam.hayes978@celestialridgetech.example,2025-04-22,,Active,Full-Time,Product Analyst,Product,PROD,EMP-0938,"Chicago, IL",86000,2026-05-07,Remote
+EMP-0979,Blake,Brooks,blake.brooks979@celestialridgetech.example,2019-10-30,2021-04-15,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0713,"Providence, RI",140000,2026-01-23,Remote
+EMP-0980,Henry,Garcia,henry.garcia980@celestialridgetech.example,2016-05-10,,Active,Full-Time,Sales Manager,Sales,SALES,EMP-0380,"Boston, MA",84000,2026-04-03,On-site
+EMP-0981,Theo,Green,theo.green981@celestialridgetech.example,2017-05-20,2017-10-15,Terminated,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0433,"Denver, CO",77000,2026-07-17,Hybrid
+EMP-0982,Caleb,Evans,caleb.evans982@celestialridgetech.example,2016-04-07,2020-05-12,Terminated,Part-Time,Sales Manager,Sales,SALES,EMP-0620,"Chicago, IL",137000,2026-02-10,Hybrid
+EMP-0983,Casey,Johnson,casey.johnson983@celestialridgetech.example,2025-07-01,,Active,Full-Time,Marketing Specialist,Marketing,MKTG,EMP-0080,"Denver, CO",84000,2026-08-10,Remote
+EMP-0984,Cameron,Brooks,cameron.brooks984@celestialridgetech.example,2021-01-06,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0345,"Providence, RI",69000,2026-01-08,Hybrid
+EMP-0985,Theo,Flores,theo.flores985@celestialridgetech.example,2022-06-08,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0466,"Charlotte, NC",105000,2026-01-25,Hybrid
+EMP-0986,Owen,Collins,owen.collins986@celestialridgetech.example,2019-03-25,,Active,Full-Time,Legal Operations Specialist,Legal,LEGAL,EMP-0190,"Denver, CO",81000,2026-07-29,Remote
+EMP-0987,Grace,Hayes,grace.hayes987@celestialridgetech.example,2016-09-16,2023-09-22,Terminated,Full-Time,Systems Analyst,Information Technology,IT,EMP-0093,"Denver, CO",61000,2026-06-15,Hybrid
+EMP-0988,Maya,Reed,maya.reed988@celestialridgetech.example,2017-10-20,,Active,Part-Time,Engineering Manager,Engineering,ENG,EMP-0237,"Austin, TX",108000,2026-01-03,Remote
+EMP-0989,Alex,Mitchell,alex.mitchell989@celestialridgetech.example,2016-07-09,,Active,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0929,"Chicago, IL",81000,2026-01-15,Remote
+EMP-0990,Leah,Turner,leah.turner990@celestialridgetech.example,2022-05-06,,Active,Full-Time,IT Support Specialist,Information Technology,IT,EMP-0506,"Chicago, IL",69000,2026-03-12,Hybrid
+EMP-0991,Riley,Kim,riley.kim991@celestialridgetech.example,2024-04-23,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0752,"Providence, RI",72000,2026-04-13,Remote
+EMP-0992,Nina,Morris,nina.morris992@celestialridgetech.example,2020-01-08,2022-10-13,Terminated,Full-Time,Software Engineer,Engineering,ENG,EMP-0917,"Chicago, IL",129000,2026-06-17,Remote
+EMP-0993,Elena,Howard,elena.howard993@celestialridgetech.example,2025-08-14,,Active,Full-Time,Customer Success Specialist,Customer Success,CS,EMP-0690,"Chicago, IL",112000,2026-04-14,Hybrid
+EMP-0994,Drew,Turner,drew.turner994@celestialridgetech.example,2021-08-27,,Active,Full-Time,Operations Manager,Operations,OPS,EMP-0255,"Chicago, IL",104000,2026-04-19,Remote
+EMP-0995,Maya,Patel,maya.patel995@celestialridgetech.example,2020-01-23,2026-08-02,Terminated,Full-Time,Sales Operations Analyst,Sales,SALES,EMP-0372,"Chicago, IL",78000,2026-08-20,Hybrid
+EMP-0996,Avery,Anderson,avery.anderson996@celestialridgetech.example,2016-10-12,,Active,Full-Time,Senior Data Analyst,Data & Analytics,DATA,,"Chicago, IL",99000,2026-05-16,Remote
+EMP-0997,Riley,Flores,riley.flores997@celestialridgetech.example,2017-10-03,,Active,Full-Time,IT Manager,Information Technology,IT,EMP-0215,"Charlotte, NC",110000,2026-02-22,Hybrid
+EMP-0998,Caleb,Kelly,caleb.kelly998@celestialridgetech.example,2019-01-28,,Active,Full-Time,Financial Analyst,Finance,FIN,EMP-0329,"Boston, MA",77000,2026-05-18,Remote
+EMP-0999,Miles,Patel,miles.patel999@celestialridgetech.example,2019-05-28,,Active,Full-Time,Senior Financial Analyst,Finance,FIN,EMP-0948,"Providence, RI",66000,2026-06-01,Remote
+EMP-1000,Avery,Lewis,avery.lewis1000@celestialridgetech.example,2019-12-06,,Active,Full-Time,Data Analyst,Data & Analytics,DATA,EMP-0419,"Austin, TX",98000,2026-05-30,On-site
