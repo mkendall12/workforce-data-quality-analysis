@@ -6,17 +6,23 @@ This project simulates a workforce data quality and operations workflow for Cele
 
 The goal is to make workforce data easier to trust, investigate, and use by loading source extracts into PostgreSQL, profiling the data, applying business-rule validations, and reconciling records across related workforce datasets.
 
-The project focuses on identifying data quality issues before the data is used for downstream reporting or operational processes.
+The project focuses on identifying data-quality issues before the data is used for downstream reporting or operational processes.
+
+## Project Highlights
+
+- Built a PostgreSQL database from five synthetic workforce datasets containing 5,985 records.
+- Developed SQL validation checks for employee lifecycle data, date relationships, department mappings, and other business rules.
+- Performed cross-table reconciliation to identify duplicate, unmatched, and inconsistent workforce records.
+- Identified data-quality exceptions involving termination data, department mappings, employee IDs, and payroll status.
 
 ## Data
 
 The project uses five workforce datasets:
-
-- `employee_master.csv` — 1,000 employee records
-- `employee_operations.csv` — 1,003 operational records
-- `employee_changes.csv` — 493 employee change records
-- `employee_documents.csv` — 2,135 document records
-- `employee_training.csv` — 1,354 training records
+- `data/employee_master.csv` — 1,000 employee records
+- `data/employee_operations.csv` — 1,003 operational records
+- `data/employee_changes.csv` — 493 employee change records
+- `data/employee_documents.csv` — 2,135 document records
+- `data/employee_training.csv` — 1,354 training records
 
 These files contain synthetically generated workforce data designed to simulate CSV extracts from multiple employee-management and operational systems. No real employee or company information is included.
 
@@ -57,16 +63,15 @@ Reconciliation also explained the difference between the 1,000 employee master r
 
 ## SQL Files
 
-- `01_create_tables.sql` — Creates the PostgreSQL tables used by the project.
-- `02_data_quality_checks.sql` — Performs employee master data-quality checks.
-- `03_reconciliation.sql` — Performs duplicate detection and cross-table reconciliation.
+- `SQL/01_create_tables.sql` — Creates the PostgreSQL tables used by the project.
+- `SQL/02_data_quality_checks.sql` — Performs employee master data-quality checks.
+- `SQL/03_reconciliation.sql` — Performs duplicate detection and cross-table reconciliation.
 
 ## Next Steps
 
-The project is currently in progress. Planned work includes:
+Planned enhancements include:
 
-- Expanding validation to employee change, document, and training data.
-- Reconciling completed employee changes against the master dataset.
-- Creating a consolidated exception/review output.
-- Developing workforce and data-quality reporting in Excel.
-- Building a summary dashboard for operational monitoring.
+- Expanding validation across employee change, document, and training data.
+- Reconciling completed employee changes against the employee master dataset.
+- Creating a consolidated exception output for operational review.
+- Developing summary reporting for workforce data-quality monitoring.
