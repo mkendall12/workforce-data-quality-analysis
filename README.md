@@ -1,6 +1,6 @@
 # Workforce Data Quality & Analytics
 
-## Overview:
+## Overview
 
 This project simulates a workforce data quality and operations workflow for Celestial Ridge Technologies, a fictional ~1,000-person hybrid technology and services company.
 
