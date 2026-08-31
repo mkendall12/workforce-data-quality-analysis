@@ -1,6 +1,15 @@
 -- Workforce Data Quality & Analytics
 -- Database schema for synthetic workforce source extracts
 
+-- Drop existing tables so the schema can be recreated as needed
+DROP TABLE IF EXISTS employee_training;
+DROP TABLE IF EXISTS employee_documents;
+DROP TABLE IF EXISTS employee_changes;
+DROP TABLE IF EXISTS employee_operations;
+DROP TABLE IF EXISTS employee_master;
+
+
+-- Core employee master data
 CREATE TABLE employee_master (
     employee_id VARCHAR(10) PRIMARY KEY,
     first_name VARCHAR(50),
@@ -15,11 +24,13 @@ CREATE TABLE employee_master (
     department_code VARCHAR(20),
     manager_id VARCHAR(10),
     location VARCHAR(50),
-    annual_salary NUMERIC(10,2),
+    annual_salary NUMERIC(12,2),
     last_updated_date DATE,
     work_arrangement VARCHAR(20)
 );
 
+
+-- Employee onboarding, offboarding, and payroll operations
 CREATE TABLE employee_operations (
     employee_id VARCHAR(10),
     onboarding_status VARCHAR(20),
@@ -32,6 +43,8 @@ CREATE TABLE employee_operations (
     operations_last_updated DATE
 );
 
+
+-- Employee job, compensation, and status changes
 CREATE TABLE employee_changes (
     change_id VARCHAR(10) PRIMARY KEY,
     employee_id VARCHAR(10),
@@ -44,6 +57,8 @@ CREATE TABLE employee_changes (
     change_status VARCHAR(20)
 );
 
+
+-- Employee documentation and compliance records
 CREATE TABLE employee_documents (
     document_id VARCHAR(10) PRIMARY KEY,
     employee_id VARCHAR(10),
@@ -55,6 +70,8 @@ CREATE TABLE employee_documents (
     last_updated_date DATE
 );
 
+
+-- Employee training assignment and completion records
 CREATE TABLE employee_training (
     training_record_id VARCHAR(10) PRIMARY KEY,
     employee_id VARCHAR(10),
