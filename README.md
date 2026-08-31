@@ -10,7 +10,7 @@ The project focuses on identifying data-quality issues before the data is used f
 
 ## Project Highlights
 
-- Built a PostgreSQL database from five synthetic workforce datasets containing 5,985 records.
+- Built a PostgreSQL database from five synthetic workforce datasets containing 5,985 total records.
 - Developed SQL validation checks for employee lifecycle data, date relationships, department mappings, and other business rules.
 - Performed cross-table reconciliation to identify duplicate, unmatched, and inconsistent workforce records.
 - Identified data-quality exceptions involving termination data, department mappings, employee IDs, and payroll status.
