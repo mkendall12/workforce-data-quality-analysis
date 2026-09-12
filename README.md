@@ -4,7 +4,7 @@
 
 This project simulates a workforce data quality and operations workflow for Celestial Ridge Technologies, a fictional ~1,000-person hybrid technology and services company.
 
-The goal is to make workforce data easier to trust, investigate, and use by loading source extracts into PostgreSQL, profiling the data, applying business-rule validations, and reconciling records across related workforce datasets.
+The goal is to make workforce data easier to trust, investigate, and use by loading source extracts into PostgreSQL, profiling the data, applying business-rule validations, reconciling records across related workforce datasets, and performing workforce-focused analysis.
 
 The project focuses on identifying data-quality issues before the data is used for downstream reporting or operational processes.
 
@@ -14,10 +14,12 @@ The project focuses on identifying data-quality issues before the data is used f
 - Developed SQL validation checks for employee lifecycle data, date relationships, department mappings, and other business rules.
 - Performed cross-table reconciliation to identify duplicate, unmatched, and inconsistent workforce records.
 - Identified data-quality exceptions involving termination data, department mappings, employee IDs, and payroll status.
+- Added workforce analytics covering headcount, hiring and termination trends, turnover, training compliance, and employee changes.
 
 ## Data
 
 The project uses five workforce datasets:
+
 - `data/employee_master.csv` — 1,000 employee records
 - `data/employee_operations.csv` — 1,003 operational records
 - `data/employee_changes.csv` — 493 employee change records
@@ -48,6 +50,19 @@ The analysis completed so far includes:
 7. Reconciling employee IDs across master and operations data.
 8. Identifying lifecycle inconsistencies across datasets.
 
+## Workforce Analytics
+
+The project also includes workforce-focused analysis using the validated employee data to support reporting and business decision-making.
+
+The analysis includes:
+
+- Active headcount by department.
+- Headcount by location and work arrangement.
+- Monthly hiring and termination trends.
+- Monthly employee turnover rates.
+- Training compliance by training type.
+- Employee changes by type.
+
 ## Key Findings
 
 Initial data-quality and reconciliation checks identified:
@@ -66,6 +81,7 @@ Reconciliation also explained the difference between the 1,000 employee master r
 - `SQL/01_create_tables.sql` — Creates the PostgreSQL tables used by the project.
 - `SQL/02_data_quality_checks.sql` — Performs employee master data-quality checks.
 - `SQL/03_reconciliation.sql` — Performs duplicate detection and cross-table reconciliation.
+- `SQL/04_workforce_analytics.sql` — Analyzes workforce trends across headcount, hiring, turnover, training compliance, and employee changes.
 
 ## Next Steps
 
@@ -74,4 +90,3 @@ Planned enhancements include:
 - Expanding validation across employee change, document, and training data.
 - Reconciling completed employee changes against the employee master dataset.
 - Creating a consolidated exception output for operational review.
-- Developing summary reporting for workforce data-quality monitoring.
